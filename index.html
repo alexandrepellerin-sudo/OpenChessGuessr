@@ -1,0 +1,112 @@
+<!doctype html>
+<html lang="fr">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+  <title>OpenChessGuessr</title>
+  <meta name="description" content="Devine l'ouverture d'échecs à partir de la position.">
+  <meta name="theme-color" content="#161512">
+  <meta name="apple-mobile-web-app-capable" content="yes">
+  <meta name="mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+  <meta name="apple-mobile-web-app-title" content="Ouvertures">
+  <link rel="manifest" href="manifest.webmanifest">
+  <link rel="icon" href="assets/icons/icon.svg" type="image/svg+xml">
+  <link rel="apple-touch-icon" href="assets/icons/apple-touch-icon.png">
+  <link rel="preload" href="data/openings.json" as="fetch" crossorigin>
+  <link rel="stylesheet" href="css/style.css">
+  <script type="module" src="js/main.js"></script>
+</head>
+<body>
+<main>
+  <!-- Accueil -->
+  <section id="home" class="screen">
+    <header class="hero">
+      <img src="assets/pieces/wN.svg" alt="" class="hero-knight">
+      <h1>OpenChess<span>Guessr</span></h1>
+      <p>Une position, quatre noms : trouve la bonne ouverture.</p>
+    </header>
+
+    <div id="stats" class="stats"></div>
+
+    <h2>Répertoire</h2>
+    <div id="pools" class="pools"></div>
+    <button id="start" class="btn primary" disabled>Nouvelle partie</button>
+
+    <details class="rules">
+      <summary>Règles du jeu</summary>
+      <ul>
+        <li>10 positions par partie, de plus en plus dures : 4 faciles (100 pts), 3 moyennes (200 pts), 3 difficiles (300 pts).</li>
+        <li>Une question est plus dure quand l’ouverture est moins jouée et la position plus profonde. Les mauvaises réponses se ressemblent aussi davantage.</li>
+        <li>Série : chaque bonne réponse d’affilée augmente le multiplicateur de x0,25, jusqu’à x2. Une erreur le remet à x1.</li>
+        <li>Après chaque réponse, rejoue les coups et touche les autres propositions pour voir leurs lignes.</li>
+      </ul>
+    </details>
+
+    <div id="history-block" hidden>
+      <h2>Dernières parties</h2>
+      <ul id="history" class="history"></ul>
+    </div>
+
+    <footer class="credits">
+      Ouvertures et popularité : <a href="https://github.com/lichess-org/chess-openings">Lichess chess-openings</a> et
+      <a href="https://database.lichess.org">base de parties Lichess</a>. Pièces « cburnett » (CC BY-SA 3.0).
+    </footer>
+  </section>
+
+  <!-- Question -->
+  <section id="play" class="screen" hidden>
+    <header class="topbar">
+      <button id="quit" class="icon-btn" aria-label="Abandonner">✕</button>
+      <div class="progress"><div id="progress-bar"></div></div>
+      <div class="score"><span id="score">0</span> pts</div>
+    </header>
+    <div class="meta">
+      <span id="q-num" class="q-num"></span>
+      <span id="tier" class="tier"></span>
+      <span id="combo" class="combo" hidden></span>
+    </div>
+    <div id="board"></div>
+    <p id="turn" class="turn"></p>
+
+    <div id="feedback" class="feedback" hidden>
+      <div id="fb-head" class="fb-head"></div>
+      <div id="fb-name" class="fb-name"></div>
+      <div id="fb-meta" class="fb-meta"></div>
+      <div class="replay">
+        <button id="r-first" class="icon-btn" aria-label="Début">⏮</button>
+        <button id="r-prev" class="icon-btn" aria-label="Coup précédent">‹</button>
+        <button id="r-play" class="icon-btn play" aria-label="Rejouer les coups">▶</button>
+        <button id="r-next" class="icon-btn" aria-label="Coup suivant">›</button>
+        <button id="r-last" class="icon-btn" aria-label="Fin">⏭</button>
+      </div>
+      <div id="moves" class="moves"></div>
+    </div>
+
+    <div id="choices" class="choices"></div>
+
+    <div id="next-bar" class="next-bar" hidden>
+      <button id="next" class="btn primary">Question suivante</button>
+    </div>
+  </section>
+
+  <!-- Résultat -->
+  <section id="result" class="screen" hidden>
+    <div class="result-card">
+      <p class="result-pool">Partie <span id="r-pool"></span></p>
+      <p class="result-score"><span id="r-score"></span><small>pts</small></p>
+      <p id="r-record" class="record" hidden></p>
+      <div class="result-stats">
+        <div><b id="r-correct"></b><span>bonnes réponses</span></div>
+        <div><b id="r-streak"></b><span>meilleure série</span></div>
+      </div>
+    </div>
+    <ol id="r-list" class="r-list"></ol>
+    <div class="result-actions">
+      <button id="again" class="btn primary">Rejouer</button>
+      <button id="home-btn" class="btn">Accueil</button>
+    </div>
+  </section>
+</main>
+</body>
+</html>

@@ -1,0 +1,12 @@
+{
+  "name": "openchessguessr",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "data": "node scripts/build-data.mjs",
+    "serve": "node scripts/serve.mjs"
+  },
+  "devDependencies": {
+    "chess.js": "^1.4.0"
+  }
+}

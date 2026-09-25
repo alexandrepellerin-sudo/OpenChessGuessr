@@ -1,0 +1,2787 @@
+53209	Queen's Pawn Game
+37903	Caro-Kann Defense
+36981	Van't Kruijs Opening
+31015	Queen's Pawn Game: Accelerated London System
+30817	Modern Defense
+30449	Pirc Defense
+29488	Philidor Defense
+27615	Scandinavian Defense
+26167	Horwitz Defense
+25259	Scandinavian Defense: Mieses-Kotroc Variation
+24639	French Defense: Exchange Variation
+21422	Owen Defense
+19507	Hungarian Opening
+17253	Caro-Kann Defense: Exchange Variation
+17133	Scandinavian Defense: Valencian Variation
+16816	Benoni Defense: Old Benoni
+16637	French Defense: Knight Variation
+16621	Queen's Pawn Game: Modern Defense
+16328	Bishop's Opening
+16173	Queen's Pawn Game: Chigorin Variation
+16146	Sicilian Defense: Old Sicilian
+15738	Sicilian Defense: Bowdler Attack
+13508	King's Pawn Game: Leonardis Variation
+13461	Mieses Opening
+13441	Englund Gambit
+13432	Sicilian Defense
+12956	Scotch Game
+12429	Queen's Pawn Game: Zukertort Variation
+12153	Sicilian Defense: Closed
+12010	Zukertort Opening: Tennison Gambit
+11417	Bird Opening
+11413	Scandinavian Defense: Modern Variation
+11273	Three Knights Opening
+10688	English Defense
+10653	Indian Defense
+10556	Four Knights Game: Italian Variation
+10210	Indian Defense: Accelerated London System
+9591	Scandinavian Defense: Main Line
+9474	French Defense: Normal Variation
+9392	Nimzo-Larsen Attack
+9347	Queen's Gambit Declined
+9335	Queen's Pawn Game: Colle System
+9113	Queen's Gambit Declined: Marshall Defense
+9047	Nimzo-Larsen Attack: Classical Variation
+9005	French Defense
+8854	Nimzo-Larsen Attack: Modern Variation
+8788	Italian Game: Anti-Fried Liver Defense
+8779	Sicilian Defense: Alapin Variation
+8201	French Defense: Advance Variation
+7938	Rapport-Jobava System
+7924	Sicilian Defense: Smith-Morra Gambit
+7893	King's Pawn Game: Busch-Gass Gambit
+7679	Sicilian Defense: McDonnell Attack
+7659	Vienna Game
+7517	Scotch Game: Lolli Variation
+7462	Sicilian Defense: Modern Variations
+7405	King's Pawn Game: Wayward Queen Attack
+7272	Slav Defense
+7198	Bird Opening: Dutch Variation
+7190	Queen's Pawn Game: London System
+7016	Saragossa Opening
+6975	Italian Game: Paris Defense
+6845	Italian Game: Giuoco Piano
+6605	Ruy Lopez: Steinitz Defense
+6505	Caro-Kann Defense: Hillbilly Attack
+6492	Sicilian Defense: French Variation
+6435	Petrov's Defense: Three Knights Game
+6297	King's Pawn Game
+6245	Caro-Kann Defense: Advance Variation
+6241	Van Geet Opening
+5907	Sicilian Defense: Open
+5797	Bishop's Opening: Berlin Defense
+5789	English Opening: Agincourt Defense
+5756	Queen's Pawn Game: London System, with e6
+5667	?
+5579	English Opening: King's English Variation
+5568	Sicilian Defense: Closed, Traditional
+5425	Pirc Defense: Classical Variation
+5335	Philidor Defense: Exchange Variation
+5328	Englund Gambit: Hartlaub-Charlick Gambit
+5306	Zukertort Opening
+5180	Englund Gambit Declined: Reversed French
+5162	Petrov's Defense: Italian Variation
+5133	Italian Game: Two Knights Defense, Modern Bishop's Opening
+5091	King's Pawn Game: Napoleon Attack
+5009	King's Pawn Game: McConnell Defense
+4920	Caro-Kann Defense: Advance Variation, Botvinnik-Carls Defense
+4878	Queen's Gambit Accepted
+4873	Caro-Kann Defense: Two Knights Attack
+4822	French Defense: Queen's Knight
+4805	Italian Game: Giuoco Pianissimo, Italian Four Knights Variation
+4774	Dutch Defense
+4773	Alekhine Defense
+4681	Center Game
+4650	Elephant Gambit
+4628	Italian Game: Giuoco Pianissimo, Normal
+4623	French Defense: King's Indian Attack
+4539	French Defense: La Bourdonnais Variation
+4536	Sicilian Defense: Taimanov Variation
+4531	King's Gambit Declined: Queen's Knight Defense
+4475	English Opening: Anglo-Scandinavian Defense
+4422	Bishop's Opening: Boi Variation
+4411	Zukertort Opening: Sicilian Invitation
+4379	Nimzowitsch Defense
+4348	Vienna Game: Max Lange Defense
+4322	King's Indian Attack
+4316	Petrov's Defense
+4257	Nimzowitsch Defense: Kennedy Variation, Linksspringer Variation
+4245	Rat Defense: Small Center Defense
+4218	Italian Game: Two Knights Defense
+4187	Italian Game: Giuoco Pianissimo
+4176	Zukertort Opening: Queen's Gambit Invitation
+4175	Nimzo-Larsen Attack: Indian Variation
+4132	Old Indian Defense
+4038	English Opening
+4027	Polish Opening
+3914	Sicilian Defense: Nyezhmetdinov-Rossolimo Attack
+3790	Zukertort Opening: Kingside Fianchetto
+3777	Queen's Pawn Game: Symmetrical Variation
+3759	Queen's Pawn Game: Levitsky Attack
+3719	King's Knight Opening: Normal Variation
+3677	Caro-Kann Defense: Advance Variation, Short Variation
+3590	London System
+3540	Italian Game
+3538	Mikenas Defense
+3529	Slav Defense: Exchange Variation
+3515	English Opening: King's English Variation, Reversed Sicilian
+3506	Grob Opening
+3484	Hungarian Opening: Slav Formation
+3468	Four Knights Game: Scotch Variation Accepted
+3446	Zukertort Opening: Slav Invitation
+3430	Zukertort Opening: Pirc Invitation
+3419	Englund Gambit: Main Line
+3329	French Defense: Two Knights Variation
+3309	Sicilian Defense: Hyperaccelerated Dragon
+3302	French Defense: Advance Variation, Paulsen Attack
+3235	King's Gambit
+3220	Center Game: Normal Variation
+3217	Zukertort Opening: Black Mustang Defense
+3191	French Defense: Advance Variation, Nimzowitsch System
+3176	Queen's Gambit Declined: Queen's Knight Variation
+3158	Benoni Defense: Benoni Gambit Accepted
+3150	English Opening: Symmetrical Variation
+3104	Caro-Kann Defense: Breyer Variation
+3077	Queen's Gambit Accepted: Old Variation
+3044	Four Knights Game
+3038	King's Pawn Game: Maróczy Defense
+3020	Sicilian Defense: Löwenthal Variation
+2985	Ponziani Opening: Jaenisch Counterattack
+2983	St. George Defense
+2982	Italian Game: Classical Variation, Giuoco Pianissimo
+2981	Scotch Game: Classical Variation
+2980	English Opening: Caro-Kann Defensive System
+2924	King's Gambit Accepted: MacLeod Defense
+2920	English Opening: Great Snake Variation
+2918	Ruy Lopez: Classical Variation
+2898	Ponziani Opening
+2896	Sicilian Defense: Delayed Alapin Variation, with d6
+2840	Hungarian Opening: Indian Defense
+2815	Italian Game: Classical Variation
+2809	Danish Gambit Accepted
+2807	Alekhine Defense: Scandinavian Variation
+2737	Caro-Kann Defense: Panov Attack
+2727	Sicilian Defense: Delayed Alapin Variation, with e6
+2704	Barnes Opening
+2695	Semi-Slav Defense: Accelerated Move Order
+2681	King's Pawn Game: Damiano Defense
+2678	King's Knight Opening
+2673	Vienna Game: Anderssen Defense
+2647	King's Indian Attack, with e6
+2618	Hungarian Opening: Symmetrical Variation
+2617	Englund Gambit Declined
+2603	King's Pawn Game: MacLeod Attack
+2578	Slav Defense: Modern Line
+2566	French Defense: Franco-Sicilian Defense
+2553	Semi-Slav Defense
+2537	Petrov's Defense: Stafford Gambit
+2489	Bishop's Opening: Vienna Hybrid
+2487	Sicilian Defense: Smith-Morra Gambit Accepted
+2451	Caro-Kann Defense: Classical Variation
+2446	Vienna Game: Vienna Gambit
+2431	Hungarian Opening: Catalan Formation
+2430	Zukertort Opening: Ross Gambit
+2420	Scotch Game: Scotch Gambit
+2399	Elephant Gambit: Paulsen Countergambit
+2395	Mieses Opening: Reversed Rat
+2376	Italian Game: Blackburne-Kostić Gambit
+2371	Caro-Kann Defense: Tartakower Variation
+2366	Queen's Gambit Declined: Chigorin Defense
+2357	Nimzowitsch Defense: Declined Variation
+2357	French Defense: Exchange Variation, Monte Carlo Variation
+2351	Ruy Lopez: Berlin Defense
+2350	Rapport-Jobava System, with e6
+2345	Queen's Gambit Declined: Baltic Defense
+2344	Slav Defense: Three Knights Variation
+2289	Indian Defense: Wade-Tartakower Defense
+2272	Sicilian Defense: Najdorf Variation
+2267	English Opening: Anglo-Indian Defense, Queen's Knight Variation
+2234	Queen's Pawn Game: Krause Variation
+2227	French Defense: Steinitz Attack
+2226	English Opening: Anglo-Indian Defense
+2197	Nimzowitsch Defense: Scandinavian Variation, Advance Variation
+2177	Trompowsky Attack
+2164	Blackmar-Diemer Gambit
+2156	Italian Game: Rousseau Gambit
+2146	Nimzo-Larsen Attack: English Variation
+2139	Caro-Kann Defense: Main Line
+2131	East Indian Defense
+2128	Sicilian Defense: Grand Prix Attack
+2108	French Defense: Rubinstein Variation
+2099	Indian Defense: London System
+2080	Zukertort Opening: Old Indian Attack
+2078	Zukertort Opening: Lemberger Gambit
+2067	Hungarian Opening: Sicilian Invitation
+2059	Duras Gambit
+2049	Queen's Gambit Declined: Normal Defense
+2048	Indian Defense: Normal Variation
+2047	Scandinavian Defense: Gubinsky-Melts Defense
+2031	Queen's Gambit Declined: Ragozin Defense
+1998	French Defense: Steiner Variation
+1996	Queen's Pawn Game: Anti-Torre
+1994	Zukertort Opening: Queenside Fianchetto Variation
+1994	Sicilian Defense: Staunton-Cochrane Variation
+1983	King's Indian Defense
+1979	Kádas Opening
+1970	Scotch Game: Schmidt Variation
+1947	Modern Defense: Two Knights Variation
+1927	Petrov's Defense: Modern Attack
+1884	Modern Defense: Standard Line
+1873	Sicilian Defense: Accelerated Dragon, Modern Variation
+1871	Bird Opening: From's Gambit
+1865	English Opening: King's English Variation, Two Knights Variation
+1863	Modern Defense: Standard Defense
+1856	Queen's Pawn Game: Accelerated London System, Steinitz Countergambit
+1856	King's Pawn Game: King's Head Opening
+1826	Queen's Pawn Game: Symmetrical Variation, Pseudo-Catalan
+1821	Scandinavian Defense: Boehnke Gambit
+1813	Indian Defense: Knights Variation
+1787	Queen's Gambit Declined: Exchange Variation, Positional Variation
+1784	Rat Defense: Harmonist
+1781	Alekhine Defense: Maróczy Variation
+1763	Vienna Game: Stanley Variation
+1758	King's Indian Defense: Normal Variation
+1730	Caro-Kann Defense: Accelerated Panov Attack
+1727	Benoni Defense: French Benoni
+1719	Queen's Pawn Game: Stonewall Attack
+1716	Queen's Pawn Game: Mason Attack
+1709	Four Knights Game: Spanish Variation, Classical Variation
+1702	Four Knights Game: Spanish Variation
+1693	Queen's Gambit Declined: Exchange Variation
+1677	Caro-Kann Defense: Maróczy Variation
+1660	King's Gambit Accepted: Fischer Defense
+1642	King's Indian Attack: Symmetrical Defense
+1622	Queen's Gambit Declined: Three Knights Variation
+1606	Polish Opening, with d5
+1604	Ruy Lopez: Cozio Defense
+1596	Queen's Pawn Game: Torre Attack
+1593	King's Indian Defense: Normal Variation, Rare Defenses
+1587	Queen's Gambit Declined: Albin Countergambit
+1586	Czech Defense
+1585	Scotch Game: Haxo Gambit
+1569	Dutch Defense: Queen's Knight Variation
+1559	Italian Game: Hungarian Defense
+1555	English Opening: The Whale
+1533	English Opening: King's English Variation, Reversed Closed Sicilian
+1527	Ruy Lopez: Bird Variation
+1523	Anderssen's Opening
+1520	King's Gambit Accepted: King's Knight's Gambit
+1519	King's Pawn Game: Wayward Queen Attack, Kiddie Countergambit
+1506	Italian Game: Two Knights Defense, Polerio Defense, Bishop Check Line
+1457	Sicilian Defense: Kan Variation, Knight Variation
+1445	Borg Defense
+1440	Sicilian Defense: Mengarini Variation
+1425	Scandinavian Defense: Blackburne-Kloosterboer Gambit
+1421	Ruy Lopez
+1417	French Defense: Classical Variation, Steinitz Variation
+1417	English Opening: Symmetrical Variation, Normal Variation
+1410	Sicilian Defense: Four Knights Variation
+1381	Englund Gambit: Soller Gambit
+1376	Petrov's Defense: Damiano Variation
+1368	Vienna Game: Falkbeer Variation
+1365	Scandinavian Defense: Blackburne Gambit
+1354	Ruy Lopez: Berlin Defense, Anti-Berlin Variation
+1341	Englund Gambit Declined: Reversed Alekhine
+1336	Semi-Slav Defense: Main Line
+1319	Scandinavian Defense: Main Line, Mieses Variation
+1314	Nimzowitsch Defense: Scandinavian Variation, Exchange Variation
+1309	Four Knights Game: Scotch Variation
+1308	Ware Opening
+1304	Van Geet Opening: Reversed Nimzowitsch
+1301	Indian Defense: Anti-Nimzo-Indian
+1292	Queen's Pawn Game: Colle System, Anti-Colle
+1282	Ruy Lopez: Exchange Variation
+1282	Alekhine Defense: Normal Variation
+1281	Scandinavian Defense: Panov Transfer
+1279	Clemenz Opening
+1276	Center Game: Paulsen Attack Variation
+1273	Vienna Gambit, with Max Lange Defense
+1264	Caro-Kann Defense: Advance Variation, Tal Variation
+1260	Scandinavian Defense: Marshall Variation
+1254	Ware Defense
+1254	Italian Game: Two Knights Defense, Knight Attack, Normal Variation
+1248	Queen's Gambit Declined: Austrian Defense
+1240	Indian Defense: Budapest Defense
+1233	Rat Defense: Antal Defense
+1232	French Defense: Marshall Gambit
+1230	Danish Gambit
+1228	King's Indian Defense: Normal Variation, King's Knight Variation
+1218	Queen's Gambit Declined: Harrwitz Attack
+1217	Center Game: Kieseritzky Variation
+1214	Modern Defense: Three Pawns Attack
+1213	Queen's Pawn Game: Chigorin Variation, Alburt Defense
+1213	Caro-Kann Defense: Endgame Offer
+1204	Italian Game: Two Knights Defense, Fried Liver Attack
+1203	Zukertort Opening: Reversed Mexican Defense
+1202	Scandinavian Defense: Icelandic-Palme Gambit
+1200	Queen's Gambit Accepted: Saduleto Variation
+1194	Sicilian Defense: French Variation, Open
+1193	Sicilian Defense: Nyezhmetdinov-Rossolimo Attack, Fianchetto Variation
+1159	Indian Defense: Spielmann-Indian
+1157	English Opening: Anglo-Indian Defense, Hedgehog System
+1156	Alekhine Defense: Exchange Variation
+1155	Yusupov-Rubinstein System
+1145	Nimzo-Larsen Attack: Symmetrical Variation
+1135	Englund Gambit Declined: Reversed Krebs
+1133	King's Indian Attack: Sicilian Variation
+1132	Italian Game: Classical Variation, Albin Gambit
+1126	Sicilian Defense: Accelerated Dragon, Exchange Variation
+1120	Sicilian Defense: Modern Variations, Main Line
+1118	Nimzowitsch Defense: Franco-Nimzowitsch Variation
+1115	Sicilian Defense: Moscow Variation, Main Line
+1115	Sicilian Defense: Marshall Counterattack
+1106	Blackmar-Diemer Gambit: Blackmar Gambit
+1104	Sicilian Defense: Classical Variation
+1101	Sicilian Defense: Wing Gambit
+1096	Sicilian Defense: Najdorf Variation, English Attack
+1089	Sicilian Defense: Franco-Sicilian Variation
+1085	Sicilian Defense: Dragon Variation
+1082	King's Pawn Game: Beyer Gambit
+1080	Benoni Defense
+1073	Barnes Defense
+1062	French Defense: Rubinstein Variation, Blackburne Defense
+1054	Bishop's Opening: Philidor Counterattack
+1052	Sicilian Defense: Alapin Variation, Smith-Morra Declined
+1047	French Defense: Advance Variation, Euwe Variation
+1043	Slav Defense: Quiet Variation, Schallopp Defense
+1043	Pirc Defense: Byrne Variation
+1042	Zukertort Opening: Dutch Variation
+1028	Rat Defense: English Rat
+1023	Modern Defense: Geller's System
+1021	Queen's Gambit
+1020	Queen's Pawn Game: Anglo-Slav Opening
+1017	Goldsmith Defense
+1013	English Opening: Symmetrical Variation, Two Knights Variation
+1011	King's Gambit Accepted: Modern Defense
+1007	Caro-Kann Defense: Campomanes Attack
+1001	Nimzowitsch Defense: Williams Variation
+995	King's Indian Defense: Orthodox Variation
+990	King's Indian Attack: French Variation
+986	Italian Game: Giuoco Pianissimo, Canal Variation
+981	Scotch Game: Göring Gambit, Double Pawn Sacrifice
+971	Torre Attack: Classical Defense
+964	Italian Game: Classical Variation, Greco Gambit, Traditional Line
+954	Sicilian Defense: Chekhover Variation
+953	Queen's Gambit Declined: Modern Variation
+953	French Defense: Mediterranean Defense
+951	Scotch Game: Göring Gambit
+941	Richter-Veresov Attack
+940	Dutch Defense: Rubinstein Variation
+936	Sicilian Defense: Alapin Variation, Barmen Defense
+933	Ruy Lopez: Classical Variation, Central Variation
+897	Polish Opening: Czech Defense
+896	Sicilian Defense: Hyperaccelerated Pterodactyl
+895	Alekhine Defense: Scandinavian Variation, Geschev Gambit
+892	Queen's Pawn Game: Veresov Attack, Classical Defense
+888	Modern Defense: Mongredien Defense, with Nf3
+883	Catalan Opening: Closed
+881	King's Gambit Accepted: Schallopp Defense
+868	King's Indian Defense: Smyslov Variation
+867	Owen Defense: Smith Gambit
+864	Scotch Game: Scotch Gambit, Advance Variation
+859	Zukertort Opening: Reversed Grünfeld
+858	Hungarian Opening: Reversed Alekhine
+857	Nimzo-Indian Defense: Three Knights Variation
+855	Zukertort Opening: Quiet System
+851	French Defense: Tarrasch Variation, Closed Variation
+851	Four Knights Game: Spanish Variation, Double Spanish
+848	Dutch Defense: Raphael Variation
+840	French Defense: Classical Variation
+839	Sicilian Defense: Kalashnikov Variation
+838	Bishop's Opening: Vienna Hybrid, Spielmann Attack
+832	French Defense: Tarrasch Variation
+829	Benoni Defense: Hromádka System
+826	Carr Defense
+824	Philidor Defense: Hanham Variation
+820	Nimzowitsch Defense: Mikenas Variation
+820	French Defense: Paulsen Variation
+817	Pirc Defense: Roscher Gambit
+813	English Opening: Anglo-Dutch Defense
+812	Sicilian Defense: Lasker-Dunne Attack
+810	Philidor Defense: Lion Variation
+809	Ruy Lopez: Morphy Defense, Caro Variation
+804	Nimzowitsch Defense: Kennedy Variation
+802	Benoni Defense: King's Pawn Line
+797	Torre Attack: Fianchetto Defense
+795	Ruy Lopez: Berlin Defense, Improved Steinitz Defense
+793	Indian Defense: Omega Gambit
+791	Caro-Kann Defense: Advance Variation, Van der Wiel Attack
+790	French Defense: Schlechter Variation
+789	King's Pawn Game: Gunderam Gambit
+788	Alekhine Defense: Two Pawns Attack
+784	Sicilian Defense: Czerniak Attack
+782	Indian Defense: West Indian Defense
+779	London System, with Bd3
+777	Sicilian Defense: Moscow Variation
+776	Scotch Game: Scotch Gambit, Dubois Réti Defense
+775	Vienna Game: Stanley Variation, Three Knights Variation
+772	Italian Game: Two Knights Defense, Knight Attack
+771	Réti Opening: Réti Accepted
+771	King's Indian Defense: Four Pawns Attack
+766	Queen's Gambit Accepted: Normal Variation
+765	Nimzo-Indian Defense
+762	Caro-Kann Defense: Accelerated Panov Attack, Modern Variation
+761	Slav Defense: Quiet Variation, Pin Defense
+760	Center Game: Berger Variation
+758	Scotch Game: Benima Defense
+758	Latvian Gambit Accepted
+758	Bird Opening: Williams Gambit
+750	Italian Game: Two Knights Defense, Fritz Variation
+746	King's Gambit Declined: Classical Variation
+744	Ruy Lopez: Berlin Defense, Beverwijk Variation
+742	Ponziani Opening: Neumann Gambit
+737	Gunderam Defense
+717	Pirc Defense: Austrian Attack
+714	King's Pawn Game: Tayler Opening
+701	Queen's Gambit Declined: Modern Variation, Normal Line
+699	Indian Defense: Przepiorka Variation
+688	Hungarian Opening: Reversed Modern Defense
+688	Bishop's Opening: Ponziani Gambit
+687	Portuguese Opening
+685	Ruy Lopez: Berlin Defense, Rio Gambit Accepted
+683	Sicilian Defense: O'Kelly Variation, Normal System
+683	Scotch Game: Classical Variation, Intermezzo Variation
+683	Caro-Kann Defense: Exchange Variation, Rubinstein Variation
+680	Sicilian Defense: Accelerated Dragon, Maróczy Bind
+679	Ruy Lopez: Morphy Defense
+677	Sicilian Defense: Accelerated Dragon
+676	Latvian Gambit
+674	English Opening: Symmetrical Variation, Anti-Benoni Variation
+673	Zukertort Opening: Nimzo-Larsen Variation
+670	Zukertort Opening: Vos Gambit
+668	Scandinavian Defense: Main Line, Leonhardt Gambit
+664	Nimzowitsch Defense: Kennedy Variation, de Smet Gambit
+663	Modern Defense: Averbakh System
+661	Ruy Lopez: Morphy Defense, Anderssen Variation
+657	Polish Defense
+654	Center Game: Halasz-McDonnell Gambit
+652	Queen's Gambit Declined: Chigorin Defense, Exchange Variation
+652	Englund Gambit: Felbecker Gambit
+650	King's Pawn Opening
+650	French Defense: Perseus Gambit
+650	Caro-Kann Defense: Two Knights Attack, Mindeno Variation
+649	Four Knights Game: Halloween Gambit
+648	Italian Game: Classical Variation, La Bourdonnais Variation
+644	Van Geet Opening: Dunst-Perrenet Gambit
+641	Italian Game: Two Knights Defense, Traxler Counterattack, Knight Sacrifice Line
+635	Philidor Defense: Nimzowitsch Variation
+634	English Opening: Carls-Bremen System
+632	Queen's Gambit Accepted: Central Variation, Modern Defense
+631	Vienna Gambit, with Max Lange Defense: Knight Variation
+629	Old Indian Defense: Czech Variation, with Nc3
+627	Queen's Gambit Declined: Baltic Defense, Pseudo-Slav
+626	King's Indian Attack, with Bf5
+626	King's Gambit Accepted: Cunningham Defense
+623	Sicilian Defense: Modern Variations, Tartakower
+623	English Opening: King's English Variation, Kramnik-Shirov Counterattack
+621	Sicilian Defense: Najdorf Variation, Lipnitsky Attack
+618	Queen's Gambit Accepted: Central Variation, Greco Variation
+616	Sicilian Defense: Four Knights Variation, Exchange Variation
+616	Scotch Game: Scotch Gambit, Sarratt Variation
+614	Queen's Gambit Accepted: Central Variation, McDonnell Defense
+613	Queen's Gambit Accepted: Rosenthal Variation
+611	Nimzo-Indian Defense: Leningrad Variation
+610	Italian Game: Classical Variation, Greco Gambit, Modern Line
+603	French Defense: Advance Variation, Milner-Barry Gambit
+602	Four Knights Game: Spanish Variation, Ranken Variation
+601	Queen's Gambit Declined: Tarrasch Defense, Pseudo-Tarrasch
+600	Italian Game: Two Knights Defense, Perreux Variation
+596	Indian Defense: Colle System, King's Indian Variation
+594	Scandinavian Defense: Valencian Variation, Main Line
+594	Four Knights Game: Gunsberg Variation
+593	Sicilian Defense: Smith-Morra Gambit Deferred
+592	Vienna Game: Omaha Gambit
+590	French Defense: Advance Variation, Main Line
+585	Philidor Defense: Morphy Gambit
+583	Queen's Gambit Accepted: Central Variation, Alekhine System
+583	Dutch Defense: Classical Variation
+582	Indian Defense: Budapest Defense, Adler Variation
+581	Caro-Kann Defense: Karpov Variation
+579	Tarrasch Defense: Symmetrical Variation
+578	Scotch Game: Scotch Gambit, London Defense
+577	Queen's Pawn Game: Chigorin Variation, Irish Gambit
+577	Italian Game: Two Knights Defense, Ponziani-Steinitz Gambit
+575	Blackmar-Diemer Gambit Accepted: Euwe Defense
+569	Trompowsky Attack: Classical Defense
+569	Alekhine Defense: Brooklyn Variation
+568	Tarrasch Defense
+567	Blackmar-Diemer Gambit: von Popiel Gambit
+566	Sicilian Defense: Kan Variation
+562	Caro-Kann Defense: Alien Gambit
+562	Caro-Kann Defense: Advance Variation, Bayonet Attack
+559	Caro-Kann Defense: Panov Attack, Modern Defense, Mieses Line
+557	Italian Game: Two Knights Defense, Open Variation
+557	English Opening: Anglo-Scandinavian Defense, Malvinas Variation
+554	French Defense: Exchange Variation, Svenonius Variation
+552	Lasker Simul Special
+552	French Defense: Chigorin Variation
+551	Sicilian Defense: Alapin Variation, Barmen Defense, Central Exchange
+550	Paleface Attack
+549	Queen's Gambit Declined: Semi-Tarrasch Defense
+546	Queen's Pawn Game: Colle System, Traditional Colle
+546	King's Pawn Game: Alapin Opening
+544	Queen's Gambit Declined: Chigorin Defense, Janowski Variation
+542	English Opening: Symmetrical Variation, Two Knights, Fianchetto Variation
+540	English Opening: Anglo-Lithuanian Variation
+539	King's Indian Defense: Semi-Classical Variation
+538	Slav Indian
+537	Ruy Lopez: Exchange Variation, Lutikov Variation
+536	King's Indian Attack: Yugoslav Variation
+535	Modern Defense: Two Knights Variation, Suttles Variation
+535	French Defense: Steinitz Variation, Boleslavsky Variation
+534	Ruy Lopez: Morphy Defense, Modern Steinitz Defense
+533	Dutch Defense: Normal Variation
+532	Sicilian Defense: Closed, Fianchetto Variation
+532	Italian Game: Scotch Gambit, Max Lange Attack
+528	Queen's Gambit Declined: Three Knights, Vienna Variation
+525	Slav Defense: Slav Gambit, Alekhine Attack
+523	Sicilian Defense: French Variation, Normal
+523	Indian Defense: Tartakower Attack
+517	Bishop's Opening: Khan Gambit
+515	Blackmar-Diemer Gambit Accepted: Teichmann Defense
+513	Alekhine Defense: Krejcik Variation
+510	Benko Gambit
+504	Vienna Game: Stanley Variation, Reversed Spanish
+504	Sicilian Defense: Smith-Morra Gambit Declined, Push Variation
+504	Modern Defense: Bishop Attack
+503	Amazon Attack
+502	Réti Opening: Advance Variation
+498	French Defense: Steinitz Variation
+497	Italian Game: Two Knights Defense, Polerio Defense
+492	Queen's Gambit Declined: Chigorin Defense, Modern Gambit
+492	English Opening: Mikenas-Carls Variation
+492	Blackmar-Diemer Gambit Accepted: Ryder Gambit
+490	Sicilian Defense: Drazic Variation
+490	Grob Opening: Grob Gambit
+488	Catalan Opening: Open Defense
+487	Slav Defense: Schlechter Variation
+487	Nimzowitsch Defense: Kennedy Variation, Paulsen Attack
+486	Sicilian Defense: Kramnik Variation
+483	Three Knights Opening: Winawer Defense
+483	Scotch Game: Potter Variation
+480	London System, with Be2
+480	Lion Defense: Lion's Jaw
+479	Catalan Opening: Open Defense, Classical Line
+478	English Opening: Anglo-Indian Defense, King's Knight Variation
+476	Ruy Lopez: Classical Variation, Zukertort Gambit
+476	Grob Opening: Grob Gambit, Fritz Gambit
+475	Slav Defense: Quiet Variation
+474	Réti Opening
+474	King's Gambit Declined: Petrov's Defense
+472	King's Indian Defense: Zinnowitz Variation
+472	King's Indian Attack: Wahls Defense
+471	Petrov's Defense: Cozio Attack
+470	Englund Gambit: Soller Gambit Deferred
+469	Vienna Game: Paulsen Variation
+468	King's Gambit Declined: Falkbeer Countergambit, Blackburne Attack
+468	English Opening: King's English Variation, Three Knights System
+467	Caro-Kann Defense: Endgame Variation
+465	Pirc Defense: Kholmov System
+464	Réti Opening: Anglo-Slav Variation, with g3
+463	Philidor Defense: Lopez Countergambit
+461	Queen's Gambit Accepted: Showalter Variation
+460	Blackmar-Diemer Gambit: Netherlands Variation
+460	Bishop's Opening: Paulsen Defense
+459	Sicilian Defense: Kan Variation, Maróczy Bind, Réti Variation
+457	King's Knight Opening: Konstantinopolsky
+457	Indian Defense: Reversed Chigorin Defense
+457	Four Knights Game: Italian Variation, Noa Gambit
+452	French Defense: Winawer Variation, Advance Variation
+451	Neo-Grünfeld Defense: Classical Variation, Original Defense
+451	Borg Defense: Borg Gambit
+449	Grünfeld Defense: Exchange Variation, Modern Exchange Variation
+448	French Defense: Wing Gambit
+447	Sicilian Defense: Kan Variation, Wing Attack
+447	French Defense: St. George Defense
+445	Queen's Gambit Accepted: Normal Variation, Traditional System
+445	Pirc Defense: Classical Variation, Schlechter Variation
+445	Alekhine Defense: Mokele Mbembe
+441	Dutch Defense: Hopton Attack
+439	English Opening: Anglo-Indian Defense, King's Indian Formation
+438	Alekhine Defense: Four Pawns Attack
+437	Vienna Game: Vienna Gambit, Main Line
+436	Zukertort Opening: Herrstrom Gambit
+436	Benoni Defense: Benoni-Indian Defense
+436	Amar Opening
+435	Italian Game: Giuoco Piano, Greco's Attack
+433	Sicilian Defense: Dragon Variation, Yugoslav Attack, Modern Line
+432	Réti Opening: Anglo-Slav Variation, Gurevich System
+432	Grünfeld Defense: Exchange Variation
+431	Italian Game: Two Knights Defense, Ulvestad Variation
+428	Caro-Kann Defense: von Hennig Gambit
+428	Caro-Kann Defense: Classical Variation, Main Line
+428	Canard Opening
+426	Danish Gambit Declined: Sörensen Defense
+425	Sicilian Defense: Paulsen-Basman Defense
+422	Queen's Gambit Declined: Albin Countergambit, Normal Line
+420	Benoni Defense: Modern Variation
+419	Nimzo-Indian Defense: Sämisch Variation
+418	Polish Opening: King's Indian Variation
+418	Blackmar-Diemer Gambit: Zeller Defense
+417	English Opening: Anglo-Scandinavian Defense, Schulz Gambit
+415	Semi-Slav Defense: Marshall Gambit
+415	King's Pawn Game: Tortoise Opening
+415	Alekhine Defense: Two Pawns Attack, Lasker Variation
+413	Zukertort Opening: Wade Defense
+413	Caro-Kann Defense: Panov Attack, Modern Defense
+411	Scandinavian Defense: Kloosterboer Gambit
+409	Scandinavian Defense: Modern Variation, Gipslis Variation
+408	Queen's Gambit Declined: Vienna Variation, Quiet Variation
+408	Indian Defense: Pawn Push Variation
+405	King's Pawn Game: Mengarini's Opening
+404	Zukertort Opening: Arctic Defense
+404	Sicilian Defense: O'Kelly Variation, Yerevan System
+404	French Defense: Winawer Variation
+403	Sicilian Defense: O'Kelly Variation
+399	Sicilian Defense: Lasker-Pelikan Variation
+399	Philidor Defense: Steinitz Variation
+399	Nimzo-Indian Defense: Classical Variation
+396	Scotch Game: Mieses Variation
+395	French Defense: Pelikan Variation
+395	English Opening: Agincourt Defense, Neo-Catalan Declined
+394	Scandinavian Defense: Valencian Variation, Ilundain Variation
+393	French Defense: Horwitz Attack, Papa-Ticulat Gambit
+392	King's Indian Attack: Keres Variation
+390	Mexican Defense
+389	Sicilian Defense: Accelerated Dragon, Modern Bc4 Variation
+389	Queen's Gambit Declined: Semi-Tarrasch Defense, Pillsbury Variation
+389	French Defense: Classical Variation, Delayed Exchange Variation
+386	Alekhine Defense: Sämisch Attack
+385	Sicilian Defense: Portsmouth Gambit
+385	Modern Defense: Norwegian Defense
+384	Sicilian Defense: Taimanov Variation, Bastrikov Variation
+384	Italian Game: Evans Gambit, McDonnell Defense
+381	Grünfeld Defense: Three Knights Variation, Burille Variation
+379	Ruy Lopez: Nürnberg Variation
+378	Caro-Kann Defense: Modern Variation
+377	French Defense: Horwitz Attack
+374	French Defense: Réti-Spielmann Attack
+371	Modern Defense: Pseudo-Austrian Attack
+371	King's Indian Defense: Fianchetto Variation
+370	Nimzowitsch Defense: Scandinavian Variation, Bogoljubow Variation
+370	French Defense: Advance Variation, Steinitz Variation
+369	Blackmar-Diemer Gambit Declined: Weinsbach Defense
+368	Sicilian Defense: Smith-Morra Gambit Declined, Scandinavian Formation
+368	Polish Opening: Outflank Variation
+367	Hungarian Opening: Dutch Defense
+367	Englund Gambit: Stockholm Variation
+366	Sicilian Defense: Smith-Morra Gambit Accepted, Paulsen Formation
+366	Italian Game: Rosentreter Gambit
+364	Queen's Gambit Declined: Traditional Variation
+364	Italian Game: Two Knights Defense, Traxler Counterattack, Bishop Sacrifice Line
+363	Sicilian Defense: Najdorf Variation, Opocensky Variation
+361	Sicilian Defense: Katalimov Variation
+360	Sicilian Defense: Keres Variation
+360	Latvian Gambit: Mlotkowski Variation
+359	King's Indian Defense: Makogonov Variation
+356	French Defense: Hecht-Reefschläger Variation
+355	Sicilian Defense: Nimzowitsch Variation
+353	Trompowsky Attack: Classical Defense, Big Center Variation
+349	Sicilian Defense: Morphy Gambit
+349	King's Gambit Declined: Falkbeer Countergambit Accepted
+348	Queen's Gambit Declined: Chigorin Defense, Main Line
+348	Caro-Kann Defense: Rasa-Studier Gambit
+345	English Opening: Anglo-Grünfeld Defense
+343	Pseudo Queen's Indian Defense
+340	Semi-Slav Defense: Noteboom Variation
+340	Nimzowitsch Defense: French Connection
+340	Italian Game: Scotch Invitation Declined
+340	English Opening: King's English Variation, Four Knights Variation, Fianchetto Line
+339	Nimzo-Larsen Attack: Dutch Variation
+336	Sicilian Defense: Lasker-Pelikan Variation, Retreat Variation
+335	Queen's Pawn Game: Colle System, Grünfeld Formation
+335	Grob Opening: Spike, Hurst Attack
+335	English Opening: King's English Variation, Two Knights Variation, Keres Variation
+333	King's Gambit Accepted: Becker Defense
+332	King's Indian Defense: Sämisch Variation, Normal Defense
+331	Queen's Indian Defense: Kasparov Variation
+331	Italian Game: Classical Variation, Giuoco Pianissimo, with h6
+328	Sicilian Defense: Lasker-Pelikan Variation, Sveshnikov Variation, Chelyabinsk Variation
+327	Sicilian Defense: Lasker-Pelikan Variation, Schlechter Variation
+327	King's Gambit Declined: Falkbeer Countergambit, Staunton Line
+327	Italian Game: Two Knights Defense, Max Lange Attack
+327	French Defense: Winawer Variation, Delayed Exchange Variation
+326	Sicilian Defense: Scheveningen Variation
+326	Polish Opening: Bugayev Attack
+322	Grünfeld Defense: Three Knights Variation, Petrosian System
+320	Caro-Kann Defense: Two Knights Attack, Mindeno Variation, Exchange Line
+320	Blackmar-Diemer Gambit Declined: O'Kelly Defense
+318	Ruy Lopez: Morphy Defense, Tarrasch Variation
+316	Sicilian Defense: Jalalabad Variation
+316	Queen's Gambit Declined: Exchange Variation, Reshevsky Variation
+315	Modern Defense: Kotov Variation
+315	French Defense: Advance Variation, Kupreichik Variation
+314	English Opening: King's English Variation, Nimzowitsch Variation
+313	Petrov's Defense: Damiano Variation, Kholmov Gambit
+312	Sicilian Defense: Dragon Variation, Classical Variation
+310	Sicilian Defense: Nimzowitsch Variation, Closed Variation
+309	English Opening: Agincourt Defense, Catalan Defense, Semi-Slav Defense
+308	Ruy Lopez: Exchange Variation, Normal Variation
+307	Catalan Opening
+306	Rat Defense: English Rat, Lisbon Gambit
+306	Modern Defense: Mongredien Defense, with Nc3
+305	Queen's Gambit Accepted: Accelerated Mannheim Variation
+305	Indian Defense: Czech-Indian
+305	Bishop's Opening: Calabrese Countergambit
+304	Grob Opening: Grob Gambit Declined
+303	King's Pawn Game: Dresden Opening
+303	Danish Gambit Accepted: Copenhagen Defense
+301	Vienna Game: Frankenstein-Dracula Variation
+301	Scotch Game: Göring Gambit, Main Line
+300	Blackmar-Diemer Gambit Declined: Vienna Defense
+299	English Opening: Four Knights System, Nimzowitsch Variation
+298	Queen's Gambit Declined: Janowski Variation
+295	Sicilian Defense: Wing Gambit, Carlsbad Variation
+295	King's Gambit Accepted: Abbazia Defense
+295	Italian Game: Two Knights Defense, Polerio Defense, Bogoljubow Variation
+295	English Opening: Symmetrical Variation, Fianchetto Variation
+294	Mikenas Defense: Lithuanian Variation
+293	Ruy Lopez: Exchange Variation, King's Bishop Variation
+292	Owen Defense: Guatemala Defense
+292	Nimzowitsch Defense: Pseudo-Spanish Variation
+292	Italian Game: Jerome Gambit
+292	Center Game: von der Lasa Gambit
+292	Caro-Kann Defense: Ulysses Gambit
+290	English Opening: King's English Variation, Four Knights Variation, Quiet Line
+290	Bird Opening: Schlechter Gambit
+288	Ruy Lopez: Schliemann Defense
+288	Four Knights Game: Glek System
+287	Sicilian Defense: Godiva Variation
+287	French Defense: Advance Variation, Milner-Barry Gambit, Main Line
+286	Slav Defense: Chebanenko Variation
+286	Sicilian Defense: Smith-Morra Gambit Declined, Center Formation
+286	English Opening: King's English Variation, Two Knights Variation, Reversed Dragon
+285	Queen's Indian Accelerated
+283	Neo-Grünfeld Defense: Ultra-Delayed Exchange Variation
+282	Queen's Pawn Game: Veresov, Richter Attack
+281	Pirc Defense: Austrian Attack, Weiss Variation
+281	English Opening: Anglo-Indian Defense, Scandinavian Defense
+279	English Opening: Symmetrical Variation, Four Knights Variation
+279	English Opening: Jaenisch Gambit
+278	Sicilian Defense: O'Kelly Variation, Venice System
+278	Nimzo-Indian Defense: Rubinstein System
+275	King's Gambit Accepted: Villemson Gambit
+274	Sicilian Defense: Dragon Variation, Accelerated Dragon
+274	Philidor Defense: Bird Gambit
+274	Grünfeld Defense: Three Knights Variation
+274	French Defense: Classical Variation, Shirov-Anand Variation
+273	Caro-Kann Defense: Goldman Variation
+272	Sicilian Defense: Kan Variation, Modern Variation
+272	Caro-Kann Defense: Forgacs Variation
+271	Scotch Game: Scotch Gambit, Kingside Variation
+269	Vienna Game: Mieses Variation
+268	Sicilian Defense: Pin Variation
+268	Nimzowitsch Defense: Scandinavian Variation, Exchange Variation, Marshall Gambit
+268	French Defense: Tarrasch Variation, Open System
+265	Van Geet Opening: Grünfeld Defense
+265	French Defense: Rubinstein Variation, Fort Knox Variation
+264	Grünfeld Defense
+264	English Opening: Symmetrical Variation, Anti-Benoni Variation, Spielmann Defense
+263	Scotch Game: Scotch Gambit, Göring Gambit Declined
+261	Sicilian Defense: Prins Variation
+261	English Opening: King's English Variation, Two Knights Variation, Smyslov System
+260	Petrov's Defense: Nimzowitsch Attack
+259	Caro-Kann Defense: Euwe Attack
+258	Center Game Accepted
+257	Sicilian Defense: Dragon Variation, Yugoslav Attack
+256	Danish Gambit Accepted: Classical Defense
+255	Sicilian Defense: Wing Gambit, Marshall Variation
+255	King's Indian Attack: Omega-Delta Gambit
+254	Alekhine Defense: Modern Variation, Schmid Variation
+253	Caro-Kann Defense: Apocalypse Attack
+252	King's Gambit Declined: Falkbeer Countergambit
+251	French Defense: Tarrasch Variation, Open System, Süchting Line
+250	Sicilian Defense: French Variation, Westerinen Attack
+249	Old Indian Defense: Czech Variation, with Nf3
+249	Latvian Gambit: Mason Countergambit
+248	Philidor Defense: Nimzowitsch Variation, Klein Variation
+248	English Opening: Symmetrical Variation, Ultra-Symmetrical Variation
+247	Sicilian Defense: Smith-Morra Gambit Accepted, Pin Defense
+247	Rubinstein Opening
+246	Sicilian Defense: Smith-Morra Gambit Accepted, Fianchetto Defense
+246	Caro-Kann Defense: Bronstein-Larsen Variation
+245	Pirc Defense: Classical Variation, Quiet System
+245	Philidor Defense: Philidor Countergambit
+244	Slav Defense: Geller Gambit
+244	Sicilian Defense: Scheveningen Variation, English Attack, with f3
+244	Sicilian Defense: Delayed Alapin Variation
+243	Tarrasch Defense: Two Knights Variation
+243	Italian Game: Scotch Gambit, Janowski Defense
+241	Valencia Opening
+241	Four Knights Game: Spanish Variation, Rubinstein Variation
+240	King's Indian Defense: Larsen Variation
+238	Zukertort Opening: Lisitsyn Gambit
+238	King's Indian Defense: Four Pawns Attack, Dynamic Attack
+238	Italian Game: Scotch Gambit, Walbrodt-Baird Gambit
+238	Caro-Kann Defense: Panov Attack, Main Line
+237	Zukertort Opening: St. George Defense
+237	Sicilian Defense: Smith-Morra Gambit Accepted, Scheveningen Formation
+235	Petrov's Defense: Classical Attack
+235	Benoni Defense: Benoni-Indian Defense, Kingside Move Order
+234	Van Geet Opening: Napoleon Attack
+234	Sicilian Defense: Smith-Morra Gambit Accepted, Kan Formation
+234	King's Pawn Game: Clam Variation, King's Gambit Reversed
+233	Zukertort Opening: The Walrus
+233	Semi-Slav Defense: Normal Variation
+233	Ruy Lopez: Morphy Defense, Classical Defense Deferred
+233	Queen's Pawn Game: Liedmann Gambit
+233	King's Indian Defense: Fianchetto Variation, Uhlmann-Szabo System
+233	Italian Game: Giuoco Pianissimo, Lucchini Gambit
+233	Blackmar-Diemer Gambit Accepted: Ziegler Defense
+232	Englund Gambit Declined: Reversed Mokele Mbembe
+231	Scandinavian Defense: Portuguese Gambit, Wuss Variation
+230	Scandinavian Defense: Classical Variation
+230	Queen's Pawn Game: Torre Attack, Gossip Variation
+230	Queen's Pawn Game: Chigorin Variation, Shaviliuk Gambit
+229	Slav Defense: Diemer Gambit
+229	French Defense: Carlson Gambit
+228	Ruy Lopez: Closed
+227	Queen's Gambit Declined: Harrwitz Attack, Orthodox Defense
+227	French Defense: Alapin Gambit
+226	Queen's Gambit Declined: Neo-Orthodox Variation, Main Line
+225	Vienna Game: Stanley Variation, Meitner-Mieses Gambit
+224	Queen's Gambit Declined: Ragozin Defense, Alekhine Variation
+224	Queen's Gambit Declined: Marshall Defense, Tan Gambit
+223	French Defense: Advance Variation, Extended Bishop Swap
+223	Englund Gambit: Zilbermints Gambit
+221	Sicilian Defense: Lasker-Pelikan Variation, Exchange Variation
+221	Ruy Lopez: Morphy Defense, Neo-Arkhangelsk Variation
+220	Queen's Gambit Declined: Charousek Variation
+220	French Defense: Diemer-Duhm Gambit Accepted
+216	King's Indian Defense: Fianchetto Variation, Yugoslav Variation
+216	English Opening: Anglo-Indian Defense, Anglo-Grünfeld Variation
+216	Bishop's Opening: Urusov Gambit
+216	Alekhine Defense: Two Pawns Attack, Tate Variation
+215	Dutch Defense: Staunton Gambit
+214	Sicilian Defense: Nimzowitsch Variation, Advance Variation
+214	Polish Opening: Schiffler-Sokolsky Variation
+214	Center Game: Hall Variation
+213	Scotch Game: Göring Gambit, Bardeleben Variation
+211	Wade Defense
+211	Vienna Game: Vienna Gambit, Paulsen Attack
+211	Sicilian Defense: Scheveningen Variation, Classical Variation
+211	Queen's Pawn Game: Hübsch Gambit
+211	Italian Game: Scotch Gambit, de Riviere Defense
+211	English Opening: Anglo-Indian Defense, Old Indian Formation
+209	Ruy Lopez: Schliemann Defense, Exchange Variation
+208	Slav Defense: Exchange Variation, Symmetrical Line
+208	Scotch Game: Malaniuk Variation
+208	Italian Game: Deutz Gambit
+207	Pterodactyl Defense: Eastern, Anhanguera
+207	King's Indian Defense: Semi-Averbakh System
+206	Zukertort Opening: Speelsmet Gambit
+206	Ruy Lopez: Morphy Defense, Graz Variation
+206	King's Indian Defense: Fianchetto Variation, Classical Fianchetto
+206	King's Indian Defense: Accelerated Averbakh Variation
+205	Ruy Lopez: Exchange Variation, Keres Variation
+205	Polish Opening: Birmingham Gambit
+205	Englund Gambit Declined: Reversed Brooklyn
+204	Nimzowitsch Defense: Kennedy Variation, Riemann Defense
+204	Indian Defense: Seirawan Attack
+203	Rat Defense: Accelerated Gurgenidze
+202	King's Indian Defense: Normal Variation, Standard Development
+202	Italian Game: Scotch Gambit, Max Lange Attack, Spielmann Defense
+202	French Defense: Classical Variation, Burn Variation
+201	King's Gambit Declined: Norwalde Variation
+201	Caro-Kann Defense: Gurgenidze System
+200	French Defense: Tarrasch Variation, Open System, Euwe-Keres Line
+199	Rat Defense: Balogh Defense
+199	Bishop's Opening: Lewis Gambit
+198	Italian Game: Scotch Gambit, Anderssen Attack
+197	Italian Game: Classical Variation, Center Attack
+197	French Defense: Advance Variation, Wade Variation
+196	Three Knights Opening: Steinitz Defense
+196	Sicilian Defense: Najdorf Variation, Adams Attack
+196	Petrov's Defense: Modern Attack, Symmetrical Variation
+195	Queen's Gambit Declined: Tarrasch Defense
+195	Nimzowitsch Defense: Kennedy Variation, Keres Attack
+195	Italian Game: Evans Gambit Declined
+195	Indian Defense: Budapest Defense, Rubinstein Variation
+194	Four Knights Game: Spanish Variation, Rubinstein Variation Accepted
+193	Old Indian Defense: Ukrainian Variation
+193	Nimzo-Indian Defense: St. Petersburg Variation
+193	French Defense: Classical Variation, Swiss Variation
+192	Ruy Lopez: Schliemann Defense, Jaenisch Gambit Accepted
+192	Dutch Defense: Stonewall Variation, Modern Variation
+192	Bird Opening: From's Gambit, Lasker Variation
+191	King's Gambit Accepted: Bishop's Gambit, Maurian Defense
+191	Dutch Defense: Staunton Gambit Accepted
+191	Bishop's Opening: Vienna Hybrid, Hromádka Variation
+189	English Opening: Symmetrical Variation, Three Knights Variation
+189	Caro-Kann Defense: Alekhine Gambit
+189	Bogo-Indian Defense: Exchange Variation
+189	Blackmar-Diemer Gambit Accepted: Pietrowsky Defense
+189	Bishop's Opening: Philidor Variation
+188	King's Gambit Accepted: Bishop's Gambit
+186	Queen's Gambit Declined: Modern Variation, Heral Variation
+186	Blackmar-Diemer Gambit: Fritz Attack
+185	Petrov's Defense: French Attack
+185	Bird Opening: Lasker Variation
+184	Nimzo-Indian Defense: Classical Variation, Noa Variation
+183	King's Indian Defense: Sämisch Variation
+183	Benko Gambit Accepted: Fully Accepted Variation
+182	Sicilian Defense: O'Kelly Variation, Normal System, Taimanov Line
+182	Sicilian Defense: Classical Variation, Sozin Attack
+182	Pirc Defense: Austrian Attack, Unzicker Attack
+181	Grünfeld Defense: Stockholm Variation
+180	Queen's Pawn Game: Barry Attack
+179	English Opening: Anglo-Indian Defense, Scandinavian Defense, Exchange Variation
+179	Caro-Kann Defense: Classical Variation, Spassky Variation
+178	Nimzowitsch Defense: Scandinavian Variation, Bogoljubow Variation, Vehre Variation
+178	Neo-Grünfeld Defense: Classical Variation
+178	French Defense: Orthoschnapp Gambit
+177	French Defense: Knight Variation, Franco-Hiva Gambit
+176	Sicilian Defense: Dragon Variation, Yugoslav Attack, Main Line
+176	French Defense: Bird Invitation
+176	English Opening: Symmetrical Variation, Three Knights, Fianchetto Variation
+175	Italian Game: Evans Gambit
+175	English Opening: King's English Variation, Four Knights Variation, Flexible Line
+175	English Opening: Anglo-Scandinavian Defense, Löhn Gambit
+173	Trompowsky Attack: Edge Variation
+173	Nimzo-Indian Defense: Kmoch Variation
+172	Indian Defense: Budapest Defense, Fajarowicz Variation
+171	Slav Defense: Two Knights Attack
+171	Sicilian Defense: Taimanov Variation, Szén Variation
+169	Nimzo-Indian Defense: Normal Variation, Ragozin Variation
+169	French Defense: Tarrasch Variation, Pawn Center Variation
+169	Center Game: Ross Gambit
+168	Slav Defense: Exchange Variation, Schallopp Variation
+168	Queen's Gambit Accepted: Gunsberg Defense
+168	King's Gambit Accepted: Rosentreter Gambit
+167	Slav Defense: Bonet Gambit
+167	Scotch Game: Steinitz Variation
+167	English Opening: Agincourt Defense, Catalan Defense Accepted
+166	Sicilian Defense: Closed, Chameleon Variation
+165	Petrov's Defense: Modern Attack, Center Variation
+165	King's Indian Defense: Sämisch Variation, Yates Defense
+164	Vienna Game: Mengarini Variation
+162	King's Gambit Accepted: Bonsch-Osmolovsky Variation
+162	English Opening: King's English Variation, Nimzowitsch-Flohr Variation
+161	Sicilian Defense: Sozin Attack
+161	Queen's Pawn Game: Accelerated London System, Steinitz Countergambit Accepted
+161	King's Gambit Accepted: Blachly Gambit
+161	Caro-Kann Defense: Maróczy Variation, Maróczy Gambit
+159	Sicilian Defense: Modern Variations, Anti-Qxd4 Move Order
+159	Queen's Gambit Declined: Modern Variation, Knight Defense
+159	Queen's Gambit Declined: Barmen Variation
+159	Ponziani Opening: Ponziani Countergambit
+159	Nimzo-Indian Defense: Classical Variation, Berlin Variation
+157	Queen's Pawn Game: Chigorin Variation, Anti-Veresov
+157	King's Indian Defense: Karpov System
+157	English Opening: Symmetrical Variation, Botvinnik System
+156	Scandinavian Defense: Portuguese Gambit, Classical Variation
+155	Bogo-Indian Defense: Grünfeld Variation
+155	Alekhine Defense: Modern Variation, Larsen Variation
+154	Queen's Gambit Accepted: Janowski-Larsen Variation
+154	Nimzowitsch Defense: Scandinavian Variation
+153	Ruy Lopez: Schliemann Defense, Dyckhoff Variation
+153	Grünfeld Defense: Three Knights Variation, Hungarian Variation
+153	Alekhine Defense: Modern Variation, Main Line
+152	Sodium Attack
+152	Queen's Indian Defense: Classical Variation, Traditional Variation, Nimzowitsch Line
+152	Polish Opening: Baltic Defense
+150	Nimzowitsch Defense: Colorado Countergambit Accepted
+150	Modern Defense: Modern Pterodactyl
+150	Kangaroo Defense
+149	Queen's Indian Defense: Spassky System
+149	Pterodactyl Defense: Eastern, Benoni
+149	Barnes Opening: Walkerling
+148	Slav Defense: Alekhine Variation
+147	Ruy Lopez: Spanish Countergambit
+147	Italian Game: Evans Gambit, Anderssen Variation
+147	Creepy Crawly Formation: Classical Defense
+147	Alekhine Defense: Four Pawns Attack, Fianchetto Variation
+146	Sicilian Defense: Sozin Attack, Leonhardt Variation
+146	King's Gambit Declined: Keene's Defense
+146	Italian Game: Classical Variation, Giuoco Pianissimo, Albin Variation
+146	Dutch Defense: Fianchetto Attack
+145	Nimzo-Indian Defense: Spielmann Variation
+145	Fried Fox Defense
+145	Alekhine Defense: O'Sullivan Gambit
+144	Lemming Defense
+144	King's Gambit Declined: Panteldakis Countergambit
+144	English Opening: Symmetrical Variation, Duchamp Variation
+143	Sicilian Defense: Taimanov Variation, Bastrikov Variation, English Attack
+143	English Opening: Symmetrical Variation, Botvinnik System Reversed, with Nf3
+142	Blackmar-Diemer Gambit Declined: Lamb Defense
+141	Sicilian Defense: Dragon Variation, Modern Bc4 Variation
+141	Sicilian Defense: Closed, Korchnoi Defense
+141	Italian Game: Classical Variation, Giuoco Pianissimo, with a6
+141	English Opening: Neo-Catalan
+141	Bogo-Indian Defense: Retreat Variation
+141	Alekhine Defense: Modern Variation, Alburt Variation
+140	King's Indian Defense: Fianchetto Variation, Debrecen Defense
+140	Italian Game: Scotch Gambit
+139	Ruy Lopez: Morphy Defense, Steinitz Deferred
+139	Italian Game: Bird's Attack
+139	French Defense: Winawer Variation, Fingerslip Variation
+138	King's Indian Defense: Fianchetto Variation, Delayed Fianchetto
+138	Benoni Defense: Czech Benoni Defense
+137	Italian Game: Classical Variation, with d5
+137	Caro-Kann Defense: Panov Attack, Fianchetto Defense
+136	Italian Game: Two Knights Defense, Polerio Defense, Suhle Defense
+135	Zukertort Opening: Basman Defense
+135	Scandinavian Defense: Lasker Variation
+135	Italian Game: Two Knights Defense, Polerio Defense, Kieseritzky Variation
+134	French Defense: La Bourdonnais Variation, Reuter Gambit
+134	Caro-Kann Defense: Advance Variation, Bronstein Variation
+134	Benoni Defense: Classical Variation
+133	King's Indian Defense: Fianchetto Variation, Immediate Fianchetto
+132	Lion Defense: Anti-Philidor, Lion's Cave
+131	Sicilian Defense: Smith-Morra Gambit Declined, Alapin Formation
+131	Sicilian Defense: Richter-Rauzer Variation
+131	Scotch Game: Relfsson Gambit
+131	Scandinavian Defense: Schiller-Pytel Variation
+131	Modern Defense: Lizard Defense, Mittenberger Gambit
+131	Indian Defense: Maddigan Gambit
+131	French Defense: Franco-Hiva Gambit
+130	Zukertort Opening: Tennison Gambit, Brigg's Trap
+130	Sicilian Defense: Morphy Gambit, Andreaschek Gambit
+130	Four Knights Game: Scotch Variation Accepted, Main Line
+130	Benko Gambit: Zaitsev System
+129	Sicilian Defense: Dragon Variation, Yugoslav Attack, Belezky Line
+129	Kangaroo Defense: Keres Defense, Transpositional Variation
+129	Bishop's Opening: Boden-Kieseritzky Gambit
+128	Réti Opening: Anglo-Slav Variation, Bogoljubow Variation, Stonewall Line
+128	Philidor Defense: Larsen Variation
+128	Neo-Grünfeld Defense: Classical Variation, Modern Defense
+128	King's Gambit Declined: Keene Defense
+128	English Opening: Symmetrical Variation, Full Symmetry Line
+128	Caro-Kann Defense: Accelerated Panov Attack, Open Variation
+128	Alekhine Defense: Four Pawns Attack, Main Line
+127	Italian Game: Two Knights Defense, Traxler Counterattack
+127	Barnes Opening: Hammerschlag
+126	Semi-Slav Defense: Chigorin Defense
+126	Elephant Gambit: Maróczy Gambit
+125	Sicilian Defense: Wing Gambit Deferred
+125	Pterodactyl Defense: Western, Rhamphorhynchus
+125	Nimzowitsch Defense: Kennedy Variation, Main Line
+125	French Defense: Tarrasch Variation, Closed Variation, Main Line
+125	Dutch Defense: Leningrad Variation, Warsaw Variation
+125	Caro-Kann Defense: Two Knights Attack, Mindeno Variation, Retreat Line
+124	Zukertort Opening: Polish Defense
+124	Scotch Game: Modern Defense
+124	Philidor Defense: Philidor Countergambit, Zukertort Variation
+124	Neo-Grünfeld Defense: with Nf3
+124	French Defense: Classical Variation, Normal Variation
+124	Caro-Kann Defense: Karpov Variation, Modern Variation, Kasparov Attack
+124	Alekhine Defense: Balogh Variation
+123	Scandinavian Defense: Anderssen Counterattack
+123	Italian Game: Evans Gambit, Pierce Defense
+122	Nimzo-Larsen Attack: Spike Variation
+122	Hippopotamus Defense
+122	English Opening: Symmetrical Variation, Mecking Variation
+121	Sicilian Defense: Nimzo-American Variation
+121	Scotch Game: Scotch Gambit, Cochrane-Anderssen Variation
+121	Scandinavian Defense: Kiel Variation
+121	Queen's Gambit Declined: Orthodox Defense, Botvinnik Variation
+121	Blackmar-Diemer Gambit: Rasa-Studier Gambit
+120	St. George Defense: Polish Variation
+120	Queen's Gambit Accepted: Central Variation, Rubinstein Defense
+120	French Defense: Classical Variation, Burn Variation, Main Line
+119	Ruy Lopez: Open
+118	King's Gambit Declined: Falkbeer Countergambit, Charousek Gambit
+118	French Defense: Franco-Hiva Gambit Accepted
+118	Bogo-Indian Defense: Nimzowitsch Variation
+117	Zukertort Opening: Double Fianchetto Attack
+117	Ware Opening: Crab Variation
+117	Scandinavian Defense: Bronstein Variation
+117	Ruy Lopez: Berlin Defense, Berlin Wall
+117	King's Indian Defense: Fianchetto Variation, Classical Variation
+117	King's Gambit Declined: Miles Defense
+116	Sicilian Defense: Kveinis Variation
+115	Vienna Game: Fyfe Gambit
+115	Queen's Gambit Declined: Semi-Tarrasch Defense, Exchange Variation
+115	French Defense: Tarrasch Variation, Chistyakov Defense
+115	Four Knights Game: Naroditsky Variation
+115	Blackmar-Diemer Gambit: Lemberger Countergambit
+115	Benko Gambit Accepted: Modern Variation
+114	Scandinavian Defense: Portuguese Gambit
+114	French Defense: Diemer-Duhm Gambit
+114	French Defense: Advance Variation, Milner-Barry Gambit, Hector Variation
+114	English Opening: King's English Variation, Four Knights Variation, Fianchetto Line, with .. d6
+114	English Opening: Anglo-Indian Defense, Queen's Indian Formation
+114	Bird Opening: Dutch Variation, Batavo Gambit
+113	Semi-Slav Defense: Anti-Moscow Gambit
+113	Ruy Lopez: Berlin Defense, l'Hermet Variation, Berlin Wall Defense
+113	Nimzowitsch Defense: Breyer Variation
+113	King's Indian Defense: Fianchetto Variation, Simagin Variation
+113	Italian Game: Scotch Gambit, Double Gambit Accepted
+112	Ruy Lopez: Exchange Variation, Gligoric Variation
+112	Modern Defense: Wind Gambit
+112	King's Indian Defense: Semi-Classical Variation, Hollywood Variation
+112	King's Indian Defense: Orthodox Variation, Positional Defense
+112	Benoni Defense: Semi-Benoni
+112	Alekhine Defense: Mokele Mbembe, Vavra Defense
+111	Tarrasch Defense: Schara Gambit
+111	Nimzowitsch Defense: Colorado Countergambit
+111	King's Indian Defense: Fianchetto Variation, Panno Variation
+111	Blackmar-Diemer Gambit: Diemer-Rosenberg Attack
+110	Sicilian Defense: Alapin Variation, Anti-Alapin Gambit
+110	Scandinavian Defense: Richter Variation
+110	Polish Opening: Grigorian Variation
+109	Ruy Lopez: Vinogradov Variation
+109	Queen's Pawn Game: Torre Attack, Grünfeld Variation
+109	Polish Opening: Bugayev Advance Variation
+109	King's Indian Defense: Sämisch Variation, Sämisch Gambit
+109	Blackmar-Diemer Gambit Accepted: Gunderam Defense
+108	Sicilian Defense: Alapin Variation, Barmen Defense, Modern Line
+108	King's Pawn Game: Busch-Gass Gambit, Chiodini Gambit
+108	Italian Game: Classical Variation, Greco Gambit, Greco Variation
+107	Sicilian Defense: Smith-Morra Gambit Accepted, Danish Variation
+107	Scotch Game: Ghulam-Kassim Variation
+107	Ruy Lopez: Fianchetto Defense
+107	King's Gambit Declined: Falkbeer Countergambit, Modern Transfer
+107	King's Gambit Declined: Falkbeer Countergambit, Milner-Barry Variation
+107	Italian Game: Classical Variation, Greco Gambit, Main Line
+106	Sicilian Defense: McDonnell Attack, Tal Gambit
+106	King's Gambit Declined: Mafia Defense
+106	French Defense: St. George Defense, Three Pawn Attack
+105	Queen's Gambit Declined: Orthodox Defense
+105	Queen's Gambit Declined: Chigorin Defense, Lazard Gambit
+105	Pterodactyl Defense: Queen Pterodactyl, Quiet Line
+105	Italian Game: Two Knights Defense, Lolli Attack
+104	Sicilian Defense: O'Kelly Variation, Maróczy Bind, Paulsen Line
+104	French Defense: Advance Variation, Nimzowitsch Attack
+104	Englund Gambit: Mosquito Gambit
+103	Sicilian Defense: Najdorf Variation, Amsterdam Variation
+103	Queen's Gambit Declined: Baltic Defense, Pseudo-Chigorin
+103	Old Indian Defense: Two Knights Variation
+103	King's Gambit Accepted: Cunningham Defense, Bertin Gambit
+102	Torre Attack: Classical Defense, Nimzowitsch Variation
+102	Queen's Gambit Declined: Ragozin Defense, Vienna Variation
+102	Grünfeld Defense: Three Knights Variation, Paris Variation
+102	Four Knights Game: Scotch Variation, Belgrade Gambit
+101	Queen's Gambit Declined: Austrian Attack, Salvio Countergambit
+101	Old Indian Defense: Normal Variation
+101	King's Indian Defense: Sämisch Variation, Closed Variation
+100	Ruy Lopez: Marshall Attack, Modern Variation
+100	Queen's Gambit Declined: Harrwitz Attack, Fianchetto Defense
+100	Hungarian Opening: Myers Defense
+100	Caro-Kann Defense: Hillbilly Attack, Schaeffer Gambit
+99	Sicilian Defense: O'Kelly Variation, Venice System, Steiner Line
+99	King's Gambit Accepted
+99	Irish Gambit
+99	Indian Defense: Anti-Grünfeld, Advance Variation
+98	Nimzo-Larsen Attack: Graz Attack
+98	Grob Opening: Spike Attack
+97	Semi-Slav Defense: Quiet Variation
+97	Ruy Lopez: Alapin Defense
+97	King's Pawn Game: Schulze-Müller Gambit
+96	Queen's Gambit Accepted: Slav Gambit
+96	Nimzo-Indian Defense: Dilworth Gambit
+96	Alekhine Defense: Four Pawns Attack, Trifunovic Variation
+95	Van Geet Opening: Sicilian Two Knights
+95	Queen's Indian Defense: Classical Variation, Traditional Variation
+95	Indian Defense: Paleface Attack, Blackmar-Diemer Gambit Deferred
+95	Blackmar-Diemer Gambit: Reversed Albin Countergambit
+95	Benko Gambit Accepted: Pawn Return Variation
+94	Zukertort Opening: Ware Defense
+94	Queen's Pawn Game: Veresov Attack, Dutch System
+94	Petrov's Defense: Classical Attack, Marshall Variation
+94	Italian Game: Classical Variation, Greco Gambit, Anderssen Variation
+94	Grünfeld Defense: Exchange Variation, Classical Variation
+94	Four Knights Game: Scotch Variation, Schmid Defense
+94	Caro-Kann Defense: Masi Variation
+93	Global Opening
+93	English Opening: King's English Variation, Four Knights Variation
+92	Semi-Slav Defense Accepted
+92	King's Indian Defense: Orthodox Variation, Positional Defense, Closed Line
+92	King's Indian Attack: Double Fianchetto
+92	King's Gambit Declined: Falkbeer Countergambit, Nimzowitsch-Marshall Countergambit
+91	English Opening: Mikenas-Carls, Sicilian
+91	Caro-Kann Defense: Karpov Variation, Modern Variation
+91	Amazon Attack: Siberian Attack
+90	King's Indian Defense: Fianchetto Variation, Yugoslav System
+89	Queen's Gambit Declined: Albin Countergambit, Tartakower Defense
+89	Petrov's Defense: Paulsen Attack
+89	Nimzowitsch Defense: Scandinavian Variation, Bogoljubow Variation, Nimzowitsch Gambit
+89	King's Indian Defense: Orthodox Variation, Gligoric-Taimanov System
+89	Catalan Opening: Closed, Main Line
+89	Alekhine Defense: Modern Variation, Larsen-Haakert Variation
+88	Sicilian Defense: Najdorf Variation, Main Line
+88	Sicilian Defense: Halasz Gambit
+88	Sicilian Defense: Dragon Variation, Levenfish Variation
+88	Sicilian Defense: Alapin Variation, Sherzer Variation
+88	Nimzo-Indian Defense: Normal Variation
+87	Polish Opening: Dutch Defense
+87	Latvian Gambit: Mayet Attack, Morgado Defense
+87	King's Indian Defense: Semi-Classical Variation, Benoni Variation
+87	Italian Game: Classical Variation, Greco Gambit, Moeller-Therkatz Attack
+87	Grünfeld Defense: Exchange Variation, Spassky Variation
+86	Van Geet Opening: Berlin Gambit
+86	Queen's Gambit Declined: Tartakower Defense
+86	Pirc Defense: Austrian Attack, Dragon Formation
+86	French Defense: Winawer Variation, Alekhine-Maróczy Gambit
+86	French Defense: Classical Variation, Richter Attack
+85	Sicilian Defense: Wing Gambit, Deferred Variation
+85	Sicilian Defense: Flohr Variation
+84	Tarrasch Defense: Classical Variation
+84	Richter-Veresov Attack: Boyce Defense
+84	Old Indian Defense: Janowski Variation
+83	Sicilian Defense: Smith-Morra Gambit Accepted, Classical Formation
+83	Scotch Game: Blumenfeld Attack
+83	Benoni Defense: Classical Variation, New York Variation
+82	Ruy Lopez: Closed, Chigorin Defense
+82	French Defense: Tarrasch Variation, Open System, Main Line
+81	Slav Defense: Winawer Countergambit
+81	Robatsch Defense
+81	Petrov's Defense: Cochrane Gambit, Bishop Check Line
+81	Dutch Defense: Stonewall Variation
+80	King's Gambit Declined: Falkbeer Countergambit, Hinrichsen Gambit
+80	Bird Opening: Wagner-Zwitersch Gambit
+80	Bird Opening: Sturm Gambit
+79	Trompowsky Attack: Raptor Variation
+79	King's Indian Defense: Sämisch Variation, Bobotsov-Korchnoi-Petrosian Variation
+79	King's Indian Defense: Orthodox Variation, Aronin-Taimanov Defense
+79	Blackmar-Diemer Gambit Accepted: Bogoljubow Defense
+79	Bishop's Opening: Berlin Defense, Greco Gambit
+78	Vienna Gambit, with Max Lange Defense: Steinitz Gambit
+78	Slav Defense: Exchange Variation, Boor Attack
+78	Montevideo Defense
+78	King's Pawn Game: Damiano Defense, Damiano Gambit
+78	King's Indian Defense: Fianchetto Variation, Carlsbad Variation
+78	Dutch Defense: Blackmar's Second Gambit
+78	Caro-Kann Defense: Panov Attack, Gunderam Attack
+77	Richter-Veresov Attack: Richter Variation
+77	King's Indian Defense: Steiner Attack
+76	Scandinavian Defense: Portuguese Gambit, Banker Variation
+76	Philidor Defense: Hanham Variation, Schlechter Variation
+76	Nimzowitsch Defense: El Columpio Defense
+76	King's Gambit Accepted: Hanstein Gambit
+76	Bird Opening: Hobbs Gambit
+75	Sicilian Defense: O'Kelly Variation, Quiet System
+75	Queen's Indian Defense: Classical Variation
+75	Queen's Gambit Declined: Cambridge Springs Defense
+75	Nimzo-Indian Defense: Romanishin Variation
+75	Latvian Gambit Accepted: Bilguer Variation
+74	Sicilian Defense: Modern Variations, Ginsberg Gambit
+74	Queen's Gambit Declined: Alapin Variation
+74	Old Indian Defense: Tartakower-Indian
+74	English Opening: Agincourt Defense, Wimpy System
+73	Sicilian Defense: Najdorf Variation, Zagreb Variation
+73	Richter-Veresov Attack: Veresov Variation
+73	Polish Opening: Symmetrical Variation
+73	Pirc Defense: Austrian Attack, Kurajica Variation
+73	Neo-Grünfeld Defense: Delayed Exchange Variation
+72	Sicilian Defense: O'Kelly Variation, Maróczy Bind
+72	Sicilian Defense: Moscow Variation, Sokolsky Variation
+72	Semi-Slav Defense: Bogoljubow Variation
+72	French Defense: Advance Variation, Nimzowitsch Gambit
+72	French Defense: Advance Variation, Lputian Variation
+72	English Opening: King's English Variation, Keres Defense
+72	Bishop's Opening: Urusov Gambit, Keidansky Gambit
+71	Sicilian Defense: Lasker-Pelikan Variation, Sveshnikov Variation
+71	Italian Game: Evans Gambit, Harding Variation
+71	Indian Defense: Budapest Defense, Alekhine Variation
+71	French Defense: Classical Variation, Burn Variation, Morozevich Line
+70	Queen's Gambit Declined: Orthodox Defense, Main Line
+70	Petrov's Defense: Modern Attack, Center Attack
+70	French Defense: Tarrasch Variation, Morozevich Variation
+70	English Opening: King's English Variation, Troger Defense
+70	Center Game: Lanc-Arnold Gambit
+69	Three Knights Opening: Schlechter Variation
+69	Ruy Lopez: Lucena Variation
+69	Ruy Lopez: Closed, Martinez Variation
+69	Grünfeld Defense: Three Knights Variation, Hungarian Attack
+69	French Defense: Tarrasch Variation, Guimard Defense
+69	Bishop's Opening: Calabrese Countergambit, Jaenisch Variation
+68	Ware Opening: Symmetric Variation
+68	Sicilian Defense: Lasker-Pelikan Variation, Sveshnikov Variation, Novosibirsk Variation
+68	King's Indian Attack: Spassky Variation
+68	Italian Game: Evans Gambit, McDonnell Defense, Main Line
+67	Vienna Gambit, with Max Lange Defense: Pierce Gambit
+67	Slav Defense: Alapin Variation
+67	Ruy Lopez: Exchange Variation, Alapin Gambit
+67	Queen's Pawn Game: Chigorin Variation, Fianchetto Defense
+67	Queen's Pawn Game: Barry Attack, Tarzan Attack
+67	Queen's Gambit Declined: Chigorin Defense, Tartakower Gambit
+67	Polish Opening: Zukertort System
+67	Petrov's Defense: Karklins-Martinovsky Variation
+67	Latvian Gambit Accepted: Main Line
+66	Sicilian Defense: Bücker Variation
+66	Semi-Slav Defense: Botvinnik Variation
+66	Pterodactyl Defense: Eastern, Rhamphorhynchus
+66	Petrov's Defense: Classical Attack, Staunton Variation
+66	French Defense: Winawer Variation, Maróczy-Wallis Variation
+66	French Defense: Baeuerle Gambit
+66	French Defense: Alekhine-Chatard Attack, Albin-Chatard Gambit
+66	French Defense: Alekhine-Chatard Attack
+66	Caro-Kann Defense: Panov Attack, Modern Defense, Carlsbad Line
+66	Bird Opening: Double Duck Formation
+66	Benoni Defense: Old Benoni, Schmid Variation
+65	Slav Defense: Breyer Variation
+65	Réti Opening: Reversed Blumenfeld Gambit
+65	Queen's Gambit Declined: Lasker Defense
+65	Queen's Gambit Declined: Been-Koomen Variation
+65	King's Indian Defense: Orthodox Variation, Glek Defense
+65	Dutch Defense: Leningrad Variation
+65	Danish Gambit Accepted: Schlechter Defense
+65	Danish Gambit Accepted: Chigorin Defense
+65	Bogo-Indian Defense: Wade-Smyslov Variation
+65	Alekhine Defense: The Squirrel
+64	Van Geet Opening: Novosibirsk Variation
+64	Slav Defense: Soultanbeieff Variation
+64	Sicilian Defense: Dragon Variation, Yugoslav Attack, Panov Variation
+64	Ruy Lopez: Morphy Defense, Norwegian Variation
+64	Ruy Lopez: Marshall Attack, Modern Main Line
+64	Queen's Indian Defense: Fianchetto Variation, Traditional Line
+64	King's Indian Defense: Orthodox Variation, Bayonet Attack
+64	King's Indian Defense: Fianchetto Variation, Yugoslav Variation, Exchange Line
+64	English Opening: Agincourt Defense, Catalan Defense
+64	Caro-Kann Defense: Classical Variation, Maróczy Attack
+64	Alekhine Defense: Krejcik Variation, Krejcik Gambit
+63	Van Geet Opening: Reversed Scandinavian
+63	Pirc Defense: Classical Variation, Quiet System, Chigorin Line
+63	King's Indian Defense: Fianchetto Variation, Yugoslav Variation, Advance Line
+63	Bongcloud Attack
+63	Blackmar-Diemer Gambit Declined: Langeheinicke Defense
+62	Queen's Indian Defense: Capablanca Variation
+62	Pterodactyl Defense: Eastern, Pterodactyl
+62	King's Indian Defense: Exchange Variation
+62	Italian Game: Two Knights Defense, Traxler Counterattack, King March Line
+62	Italian Game: Classical Variation, Greco Gambit, Dubov Italian
+62	Grünfeld Defense: Three Knights Variation, Burille Variation, Reversed Tarrasch
+61	Van Geet Opening: Laroche Gambit
+61	Sicilian Defense: Najdorf Variation, English Attack, Anti-English
+61	Sicilian Defense: Modern Variations, Anti-Qxd4 Move Order Accepted
+61	Sicilian Defense: Brussels Gambit
+61	Sicilian Defense: Boleslavsky Variation
+61	Italian Game: Two Knights Defense, Blackburne Variation
+61	Italian Game: Scotch Gambit, Nakhmanson Gambit
+61	Italian Game: Evans Gambit, Main Line
+61	French Defense: Winawer Variation, Bogoljubow Variation
+61	Caro-Kann Defense: Panov Attack, Fianchetto Defense, Fianchetto Gambit
+61	Blackmar-Diemer Gambit: Lemberger Countergambit, Lange Gambit
+60	Sicilian Defense: Quinteros Variation
+60	Sicilian Defense: O'Kelly Variation, Normal System, Smith-Morra Line
+60	Réti Opening: Anglo-Slav Variation, Bogoljubow Variation
+60	Ruy Lopez: Schliemann Defense, Schönemann Attack
+60	Mikenas Defense: Cannstatter Variation
+60	King's Gambit Accepted: Kieseritzky Gambit, Kolisch Defense
+60	Bird Opening: Lasker Gambit
+60	Benoni Defense: Four Pawns Attack, Main Line
+60	Benko Gambit Accepted: King Walk Variation
+59	Zukertort Opening: Santasiere's Folly
+59	Sicilian Defense: Scheveningen Variation, Keres Attack
+59	Sicilian Defense: Najdorf Variation, Freak Attack
+59	Sicilian Defense: Closed, Anti-Sveshnikov Variation, with Nf6
+59	Nimzowitsch Defense: Woodchuck Variation
+59	King's Gambit Accepted: Kieseritzky Gambit, Long Whip
+59	French Defense: Henneberger Variation
+59	English Opening: Myers Defense
+59	English Opening: Anglo-Indian Defense, Nimzo-English
+59	Dutch Defense: Leningrad Variation, Matulovic Variation
+58	Sicilian Defense: Richter-Rauzer Variation, Classical Variation
+58	Sicilian Defense: Four Knights Variation, Sveshnikov Transfer
+58	Semi-Slav Defense: Accelerated Meran Variation
+58	Ruy Lopez: Morphy Defense, Mackenzie Variation
+58	Ruy Lopez: Marshall Attack
+58	King's Indian Defense: Kramer Variation
+57	Sicilian Defense: McDonnell Attack, Toilet Variation
+57	Semi-Slav Defense: Meran Variation
+57	Nimzo-Indian Defense: Normal Variation, Classical Defense
+57	King's Pawn Game: MacLeod Attack, Lasa Gambit
+57	King's Indian Defense: Sämisch Variation, Orthodox Variation
+57	King's Gambit Declined: Classical, Soldatenkov Variation
+57	Bishop's Opening: Warsaw Gambit
+56	Van Geet Opening: Dougherty Gambit
+56	Ruy Lopez: Morphy Defense, Arkhangelsk Variation
+56	Queen's Indian Defense: Kasparov-Petrosian Variation, Marco Defense
+56	Queen's Gambit Declined: Albin Countergambit, Modern Line
+56	King's Indian Defense: Petrosian Variation, Stein Defense
+56	Grünfeld Defense: Brinckmann Attack
+56	English Opening: Agincourt Defense, Kurajica Defense
+56	Blackmar-Diemer Gambit Accepted
+56	Benko Gambit Declined: Main Line
+55	Sicilian Defense: Wing Gambit, Abrahams Variation
+55	Sicilian Defense: O'Kelly Variation, Normal System, Zagorovsky Line
+55	Sicilian Defense: Closed, Anti-Sveshnikov Variation, with d6
+55	Sicilian Defense: Alapin Variation, Stoltz Attack
+55	Ruy Lopez: Schliemann Defense, Tartakower Variation
+55	Queen's Indian Defense: Fianchetto Variation, Nimzowitsch Variation
+55	Queen's Gambit Declined: Harrwitz Attack, Two Knights Defense
+55	French Defense: Tarrasch Variation, Guimard Defense, Main Line
+55	Blackmar-Diemer Gambit Declined: Elbert Countergambit
+55	Bishop's Opening: Stein Gambit
+54	Ruy Lopez: Closed, Anti-Marshall
+54	Nimzo-Larsen Attack: Polish Variation
+54	King's Gambit Accepted: Muzio Gambit, Wild Muzio Gambit
+54	Benoni Defense: Taimanov Variation
+54	Australian Defense
+53	Slav Defense: Czech Variation, Dutch Variation
+53	Slav Defense: Czech Variation, Classical System
+53	Ruy Lopez: Closed, Averbakh Variation
+53	King's Gambit Accepted: Traditional Variation
+53	Italian Game: Classical Variation, Closed Variation
+53	Döry Defense
+53	Dutch Defense: Korchnoi Attack
+53	Caro-Kann Defense: Gurgenidze Counterattack
+53	Alekhine Defense: Modern Variation
+52	Queen's Gambit Declined: Capablanca Variation
+52	Four Knights Game: Spanish Variation, Rubinstein Variation, Henneberger Variation
+52	Center Game: Lanc-Arnold Gambit, Schippler Gambit
+52	Caro-Kann Defense: Classical Variation, Flohr Variation
+52	Benoni Defense: Four Pawns Attack
+51	Sicilian Defense: Myers Attack, with a4
+51	Semi-Slav Defense: Moscow Variation
+51	Ruy Lopez: Cozio Defense, Paulsen Variation
+51	Queen's Indian Defense
+51	Queen's Gambit Declined: Albin Countergambit, Fianchetto Variation
+51	Queen's Gambit Accepted: Classical Defense
+51	Queen's Gambit Accepted: Central Variation, McDonnell Defense, Somov Gambit
+51	Pterodactyl Defense: Sicilian, Rhamphorhynchus
+51	Pirc Defense: Bayonet Attack
+51	Nimzowitsch Defense: Pirc Connection
+51	Latvian Gambit: Mayet Attack, Polerio-Svedenborg Variation
+51	King's Gambit Accepted: Bishop's Gambit, Cozio Defense
+50	Sicilian Defense: Pin Variation, Koch Variation
+50	Nimzo-Indian Defense: Reshevsky Variation
+50	King's Pawn Game: Tayler Opening, Inverted Hanham
+50	King's Gambit Accepted: Lolli Gambit
+50	English Opening: King's English Variation, Taimanov Variation
+50	Benoni Defense: Modern Variation, Snake Variation
+49	Queen's Gambit Declined: Vienna Variation
+49	Queen's Gambit Declined: Baltic Defense, Queen Attack
+49	Pirc Defense: 150 Attack
+49	Latvian Gambit: Mayet Attack
+49	Latvian Gambit: Fraser Defense
+49	King's Gambit Accepted: Gianutio Countergambit
+49	Italian Game: Two Knights Defense, Max Lange Attack, Krause Variation
+49	French Defense: Advance Variation, Ruisdonk Gambit
+49	Blackmar-Diemer Gambit Accepted: Teichmann Defense, Classical Variation
+49	Benoni Defense: Classical Variation, Averbakh-Grivas Attack
+48	Ware Opening: Meadow Hay Trap
+48	Vienna Gambit, with Max Lange Defense: Cunningham Defense
+48	Sicilian Defense: Sozin Attack, Flank Variation
+48	Sicilian Defense: Scheveningen Variation, English Attack, with Qd2
+48	Ruy Lopez: Closed, Bogoljubow Variation
+48	Queen's Pawn Game: Levitsky Attack, Welling Variation
+48	Queen's Gambit Declined: Baltic Defense, Queen Attack Deferred
+48	Pirc Defense: Austrian Attack, Ljubojevic Variation
+48	Latvian Gambit: Clam Gambit
+48	King's Gambit Accepted: Fischer Defense, Spanish Variation
+48	Italian Game: Giuoco Piano, Aitken Variation
+48	French Defense: McCutcheon Variation, Chigorin Variation
+48	English Opening: King's English Variation, Four Knights Variation, Fianchetto Line, with Nb6
+48	English Opening: Anglo-Indian Defense, Anti-Anti-Grünfeld
+48	Caro-Kann Defense: Mieses Gambit
+47	Sicilian Defense: Scheveningen Variation, Vitolins Variation
+47	Sicilian Defense: Richter-Rauzer Variation, Neo-Modern Variation
+47	Queen's Gambit Declined: Albin Countergambit, Lasker Trap
+47	Pirc Defense: Classical Variation, Quiet System, Czech Defense
+47	King's Indian Defense: Four Pawns Attack, Normal Attack
+47	French Defense: Winawer Variation, Positional Variation
+47	Dutch Defense: Krejcik Gambit
+47	Benoni Defense: Cormorant Gambit
+47	Alekhine Defense: Exchange Variation, Voronezh Variation
+46	Van Geet Opening: Billockus-Johansen Gambit
+46	Sicilian Defense: Sozin Attack, Main Line
+46	Sicilian Defense: Najdorf Variation, Traditional Line
+46	Sicilian Defense: Najdorf Variation, Poisoned Pawn Variation
+46	Sicilian Defense: Four Knights Variation, Cobra Variation
+46	Sicilian Defense: Dragon Variation, Yugoslav Attack, Old Line
+46	Semi-Slav Defense: Stoltz Variation
+46	Scotch Game: Paulsen Attack
+46	Scotch Game: Alekhine Gambit
+46	Ruy Lopez: Morphy Defense, Jaffe Gambit
+46	Queen's Gambit Accepted: Alekhine Defense
+46	Ponziani Opening: Romanishin Variation
+46	Pirc Defense: Classical Variation, Quiet System, Parma Defense
+46	French Defense: Tarrasch Variation, Modern System
+46	French Defense: McCutcheon Variation, Lasker Variation
+46	French Defense: Classical Variation, Tartakower Variation
+46	Caro-Kann Defense: Finnish Variation
+46	Blackmar-Diemer Gambit: Lemberger Countergambit, Endgame Variation
+45	Slav Defense: Czech Variation
+45	Sicilian Defense: Smith-Morra Gambit Accepted, Morphy Defense
+45	Sicilian Defense: Dragon Variation, Yugoslav Attack, Early Deviations
+45	Sicilian Defense: Closed, Carlsen Variation
+45	Scotch Game: Vitzthum Attack
+45	Queen's Gambit Declined: Cambridge Springs Defense, Capablanca Variation
+45	Petrov's Defense: Millennium Attack
+45	King's Gambit Accepted: Salvio Gambit
+45	English Orangutan
+45	English Opening: Symmetrical Variation, Rubinstein Variation
+45	Blackmar-Diemer Gambit Declined: Brombacher Countergambit
+45	Benoni Defense: Fianchetto Variation
+45	Alekhine Defense: Steiner Variation
+44	Ruy Lopez: Morphy Defense, Wormald Attack
+44	Queen's Gambit Accepted: Winawer Defense
+44	Queen's Gambit Accepted: Classical Defense, Steinitz Variation, Exchange Variation
+44	Polish Opening: King's Indian Variation, Schiffler Attack
+44	Petrov's Defense: Cochrane Gambit
+44	King's Indian Defense: Orthodox Variation, Classical System
+44	Indian Defense: Pseudo-Benko
+44	Catalan Opening: Closed Variation, Traditional Variation
+44	Alekhine Defense: Scandinavian Variation, Myers Gambit
+43	Sicilian Defense: Kronberger Variation
+43	Ruy Lopez: Berlin Defense, Closed Wolf Variation
+43	Pirc Defense: Chinese Variation
+43	King's Indian Defense: Petrosian Variation
+43	Italian Game: Evans Gambit, Compromised Defense
+43	Grob Opening: Keene Defense
+43	Benko Gambit Accepted: Yugoslav
+43	Alekhine Defense: Hunt Variation, Lasker Simul Gambit
+42	Vienna Game: Vienna Gambit, Bardeleben Variation
+42	Sicilian Defense: Scheveningen Variation, Modern Variation
+42	Sicilian Defense: Kopec System
+42	Queen's Gambit Declined: Tartakower Defense, Makogonov Exchange Variation
+42	Queen's Gambit Declined: Orthodox Defense, Bd3 Line
+42	Queen's Gambit Accepted: Classical Defense, Main Line
+42	King's Indian Defense: Fianchetto Variation, Larsen Defense
+42	King's Gambit Accepted: Mason-Keres Gambit
+42	Italian Game: Classical Variation, Giuoco Pianissimo, with a4 a5
+42	Four Knights Game: Spanish Variation, Symmetrical Variation
+42	Dutch Defense: Semi-Leningrad Variation
+42	Dutch Defense: Alapin Variation
+42	Caro-Kann Defense: Classical Variation, Lobron System
+41	Sicilian Defense: O'Kelly Variation, Réti System
+41	Sicilian Defense: Najdorf Variation, Opocensky Variation, Modern Line
+41	Sicilian Defense: Accelerated Dragon, Maróczy Bind, Gurgenidze Variation
+41	Semi-Slav Defense: Marshall Gambit, Main Line
+41	Scandinavian Defense: Portuguese Gambit, Correspondence Refutation
+41	Scandinavian Defense: Anderssen Counterattack, Goteborg System
+41	Ruy Lopez: Closed, Pilnik Variation
+41	Queen's Gambit Accepted: Mannheim Variation
+41	King's Indian Defense: Fianchetto Variation, Kavalek Defense
+41	King's Gambit Accepted: Sörensen Gambit
+41	King's Gambit Accepted: Cunningham Defense, McCormick Defense
+41	Dutch Defense: Janzen-Korchnoi Gambit
+41	Caro-Kann Defense: Toikkanen Gambit
+40	Vienna Game: Vienna Gambit, Steinitz Variation
+40	Sicilian Defense: Myers Attack, with h4
+40	Queen's Gambit Declined: Pseudo-Tarrasch Variation, Primitive Pillsbury Variation
+40	Pirc Defense: Sveshnikov System
+40	Petrov's Defense: Cochrane Gambit, Center Variation
+40	Lion Defense: Anti-Philidor
+40	King's Indian Defense: Fianchetto Variation, Yugoslav Variation, Rare Line
+40	Italian Game: Evans Gambit, Stone-Ware Variation
+40	Grob Opening: Double Grob
+40	English Opening: King's English Variation, Four Knights Variation, Fianchetto Line, with .. d6, Be7
+40	Blackmar-Diemer Gambit: Zeller Defense, Soller Attack
+39	Richter-Veresov Attack: Two Knights System
+39	Queen's Indian Defense: Kasparov-Petrosian Variation, Main Line
+39	Indian Defense: Anti-Grünfeld, Basman-Williams Attack
+39	French Defense: Alekhine-Chatard Attack, Maróczy Variation
+38	Van Geet Opening: Hector Gambit
+38	Sicilian Defense: Alapin Variation, Barmen Defense, Endgame Variation
+38	Rubinstein Opening: Semi-Slav Defense
+38	Nimzowitsch Defense: Scandinavian Variation, Bogoljubow Variation, Heinola-Deppe Gambit
+38	Italian Game: Evans Gambit, Anderssen Defense
+38	English Opening: Agincourt Defense, Bogoljubow Defense
+38	Benoni Defense: Weenink Variation
+37	Sicilian Defense: Richter-Rauzer Variation, Dragon Variation
+37	Sicilian Defense: Dragon Variation, Classical Variation, Battery Variation
+37	Queen's Gambit Declined: Pseudo-Tarrasch Variation
+37	Queen's Gambit Declined: Anti-Tartakower Variation
+37	Polish Opening: Queen's Indian Variation
+37	Nimzowitsch Defense: Kennedy Variation, Hammer Gambit
+37	King's Indian Defense: Fianchetto Variation, Classical Main Line
+37	English Opening: Anglo-Indian Defense, Flohr-Mikenas-Carls Variation, Nei Gambit
+37	Caro-Kann Defense: Hector Gambit
+37	Caro-Kann Defense: Classical Variation, Seirawan Variation
+36	Sicilian Defense: Mongoose Variation
+36	Sicilian Defense: Euwe Attack, Prins Gambit
+36	Sicilian Defense: Accelerated Dragon, Maróczy Bind, Breyer Variation
+36	Ruy Lopez: Morphy Defense, Schliemann Defense Deferred
+36	Queen's Gambit Declined: Neo-Orthodox Variation
+36	Polish Opening: King's Indian Variation, Sokolsky Attack
+36	King's Indian Defense: Fianchetto Variation, Lesser Simagin (Spassky)
+36	King's Indian Defense: Averbakh Variation, Geller Defense
+36	King's Gambit Accepted: Muzio Gambit, Sarratt Defense
+36	Grünfeld Defense: Lutikov Variation
+36	Grünfeld Defense: Brinckmann Attack, Grünfeld Gambit
+36	French Defense: Winawer Variation, Portisch-Hook Variation
+36	Caro-Kann Defense: De Bruycker Defense
+35	Slav Defense: Chebanenko Variation, Advance System
+35	Sicilian Defense: Najdorf Variation, Poisoned Pawn Accepted
+35	Ruy Lopez: Rotary-Albany Gambit
+35	Queen's Pawn Game: Chandler Gambit
+35	Queen's Gambit Declined: Harrwitz Attack, Main Line
+35	Petrov's Defense: Classical Attack, Closed Variation
+35	King's Indian Defense: Semi-Classical Variation, Exchange Variation
+35	King's Indian Defense: Averbakh Variation, Flexible Defense
+35	Indian Defense: Gibbins-Weidenhagen Gambit
+35	English Opening: Achilles-Omega Gambit
+35	Bogo-Indian Defense: Vitolins Variation
+35	Bird Opening: From's Gambit, Bahr Gambit
+35	Alekhine Defense: Modern Variation, Alekhine Gambit
+34	Van Geet Opening: Grünfeld Defense, Steiner Gambit
+34	Sicilian Defense: Kupreichik Variation
+34	Sicilian Defense: Four Knights Variation, American Attack
+34	Queen's Pawn Game: Torre Attack, Grünfeld Variation, Main Line
+34	Ponziani Opening: Spanish Variation
+34	Petrov's Defense: Classical Attack, Mason-Showalter Variation
+34	Modern Defense: Beefeater Variation
+34	Latvian Gambit: Greco Variation
+34	Indian Defense: Polish Variation
+34	Indian Defense: Anti-Grünfeld, Alekhine Variation
+34	Grünfeld Defense: Smyslov Defense
+34	French Defense: Rubinstein Variation, Kasparov Attack
+34	Caro-Kann Defense: Martian Gambit
+34	Bird Opening: Horsefly Defense
+34	Benoni Defense: King's Pawn Line, with Bg5
+34	Alekhine Defense: Hunt Variation
+33	Tarrasch Defense: Dubov Tarrasch
+33	Ruy Lopez: Steinitz Defense, Nimzowitsch Attack
+33	Queen's Pawn Game: Zurich Gambit
+33	Queen's Gambit Declined: Orthodox Defense, Rubinstein Variation
+33	Nimzo-Indian Defense: Normal Variation, Sämisch Deferred
+33	King's Pawn Opening: Speers
+33	King's Gambit Accepted: Bishop's Gambit, Anderssen Defense
+33	Grob Opening: London Defense
+33	English Opening: King's English Variation, Four Knights Variation, Korchnoi Line
+33	Catalan Opening: Closed, Botvinnik Variation
+33	Benoni Defense: Old Benoni, Mujannah Formation
+33	Benoni Defense: Benoni Gambit, Schlenker Defense
+33	Benko Gambit Accepted: Fianchetto Variation
+32	Trompowsky Attack: Borg Variation
+32	Semi-Slav Defense: Noteboom Variation, Anti-Noteboom Variation
+32	Semi-Slav Defense: Meran Variation, Wade Variation
+32	Ruy Lopez: Morphy Defense, Cozio Defense
+32	Queen's Gambit Declined: Albin Countergambit, Fianchetto Variation, Bg4 Line
+32	Queen's Gambit Accepted: Classical Defense, Steinitz Variation, Development Variation
+32	Philidor Defense: Albin-Blackburne Gambit
+32	Modern Defense: Randspringer Variation
+32	King's Indian Defense: Averbakh Variation
+32	King's Gambit Declined: Falkbeer Countergambit, Charousek Gambit Accepted
+32	Four Knights Game: Scotch Variation, Oxford Gambit
+32	English Opening: Symmetrical Variation, Hedgehog Defense
+32	Dutch Defense: Classical Variation, Huisl Variation
+31	Tarrasch Defense: Prague Variation
+31	Slav Defense: Steiner Variation
+31	Sicilian Defense: Smith-Morra Gambit Accepted, Siberian Variation
+31	Sicilian Defense: Richter-Rauzer Variation, Modern Variation
+31	Sicilian Defense: Polish Gambit
+31	Queen's Gambit Accepted: Bogoljubow Defense
+31	Nimzowitsch Defense: Kennedy Variation, Bielefelder Gambit
+31	King's Pawn Game: Clam Variation, Radisch Gambit
+31	King's Indian Defense: Kazakh Variation
+31	Italian Game: Giuoco Pianissimo, Dubois Variation
+31	Grünfeld Defense: Opocensky Variation
+31	English Opening: Myers Gambit
+31	Caro-Kann Defense: Labahn Attack
+31	Benoni Defense: Classical Variation, Czerniak Defense, Tal Line
+30	Sicilian Defense: Grand Prix Attack, Schofman Variation
+30	Sicilian Defense: Dragon Variation, Classical Variation, Amsterdam Variation
+30	Ruy Lopez: Morphy Defense, Bayreuth Variation
+30	Ruy Lopez: Closed, Yates Variation
+30	Ruy Lopez: Closed, Delayed Exchange
+30	Rubinstein Opening: Classical Defense
+30	Polish Opening: Myers Variation
+30	Nimzo-Larsen Attack: Pachman Gambit
+30	Hungarian Opening: Van Kuijk Gambit
+30	French Defense: Winawer Variation, Classical Variation
+30	Bishop's Opening: Kitchener Folly
+29	Sicilian Defense: Dragon Variation, Fianchetto Variation
+29	Sicilian Defense: Dragon Variation, Classical Variation, Grigoriev Variation
+29	Sicilian Defense: Big Clamp Formation
+29	Ruy Lopez: Closed, Flohr System
+29	Queen's Gambit Declined: Austrian Defense, Gusev Countergambit
+29	Owen Defense: Naselwaus Gambit
+29	Modern Defense: Averbakh Variation, Pseudo-Sämisch
+29	King's Indian Defense: Normal Variation, Deferred Fianchetto
+29	Four Knights Game: Scotch Variation, Krause Gambit
+28	Van Geet Opening: Kluever Gambit
+28	Sicilian Defense: Smith-Morra Gambit Declined, Dubois Variation
+28	Sicilian Defense: Grob Variation
+28	Sicilian Defense: Classical Variation, Anti-Sozin Variation
+28	Semi-Slav Defense: Romih Variation
+28	Ruy Lopez: Open, Classical Defense
+28	Queen's Indian Defense: Kasparov-Petrosian Variation
+28	Queen's Gambit Accepted: Classical Defense, Rubinstein Variation
+28	Nimzo-Indian Defense: Three Knights Variation, Korchnoi Variation
+28	King's Gambit Accepted: Bishop's Gambit, Bogoljubow Variation
+28	Italian Game: Hungarian Defense, Tartakower Variation
+28	Indian Defense: Gedult Attack
+28	French Defense: Tarrasch Variation, Eliskases Variation
+28	Dutch Defense: Bellon Gambit
+28	Benoni Defense: Knight's Tour Variation
+27	Vulture Defense
+27	Vienna Game: Vienna Gambit, Modern Variation
+27	Sicilian Defense: O'Kelly Variation, Maróczy Bind, Robatsch Line
+27	Sicilian Defense: O'Kelly Variation, Aronin System
+27	Sicilian Defense: Dragon Variation, Yugoslav Attack, Czerniak Variation
+27	Ruy Lopez: Closed, Smyslov Defense
+27	Queen's Gambit Declined: Harrwitz Attack, Two Knights Defense, Blockade Line
+27	Queen's Gambit Accepted: Smyslov Variation
+27	King's Indian Attack: Pachman System
+27	Grünfeld Defense: Russian Variation
+27	French Defense: Winawer Variation, Alekhine Gambit Accepted
+27	Benoni Defense: Uhlmann Variation
+27	Benoni Defense: King's Indian System
+26	Slav Defense: Süchting Variation
+26	Sicilian Defense: Smith-Morra Gambit Accepted, Finegold Defense
+26	Sicilian Defense: O'Kelly Variation, Maróczy Bind, Geller Line
+26	Sicilian Defense: Najdorf Variation, Opocensky Variation, Traditional Line
+26	Sicilian Defense: Lasker-Pelikan Variation, Bird Variation
+26	Sicilian Defense: Hyperaccelerated Pterodactyl, Exchange Variation
+26	Sicilian Defense: Amazon Attack
+26	Scotch Game: Classical Variation, Millennium Variation
+26	Ruy Lopez: Closed, Breyer Defense, Zaitsev Hybrid
+26	Ruy Lopez: Berlin Defense, Anti-Berlin Variation, Kaufmann Variation
+26	Queen's Pawn Game: Barry Attack, Grünfeld Variation
+26	Queen's Indian Defense: Fianchetto Variation, Check Variation, Intermezzo Line
+26	Queen's Gambit Accepted: Alekhine Defense, Haberditz Variation
+26	Philidor Defense: Boden Variation
+26	Old Indian Defense: Janowski Variation, Main Line
+26	Neo-Grünfeld Defense: Classical Variation, Polgar Variation
+26	Modern Defense: Fianchetto Gambit
+26	Italian Game: Evans Gambit, Anderssen Variation, Cordel Line
+26	English Opening: King's English Variation, Two Knights Variation, Fianchetto Line
+25	Zukertort Opening: Lisitsyn Gambit Deferred
+25	Sicilian Defense: Closed, Botvinnik Defense, with Nge2
+25	Réti Opening: Anglo-Slav Variation, New York System
+25	Ruy Lopez: Open, Riga Variation
+25	Ruy Lopez: Marshall Attack, Original Marshall Attack
+25	Ruy Lopez: Exchange Variation, Bronstein Variation
+25	Ponziani Opening: Vukovic Gambit
+25	Ponziani Opening: Caro Gambit
+25	Philidor Defense: Philidor Gambit
+25	Nimzo-Indian Defense: Normal Variation, Schlechter Defense
+25	King's Gambit Declined: Falkbeer Countergambit, Rubinstein Variation
+25	King's Gambit Accepted: Quaade Gambit
+25	King's Gambit Accepted: Ghulam-Kassim Gambit
+25	King's Gambit Accepted: Breyer Gambit
+25	Italian Game: Two Knights Defense, Colman Variation
+25	Italian Game: Evans Gambit, Bronstein Defense
+25	French Defense: Winawer Variation, Retreat Variation
+25	French Defense: King's Indian Attack, Franco-Hiva Gambit
+25	English Opening: King's English Variation, Four Knights Variation, Bradley Beach Variation
+25	Caro-Kann Defense: Tartakower Variation, Perlis Line
+25	Blackmar-Diemer Gambit: Lemberger Countergambit, Sneiders Attack
+25	Bird Opening: Williams-Zilbermints Gambit
+25	Benko Gambit Declined: Quiet Line
+25	Alekhine Defense: Spielmann Gambit
+24	Sicilian Defense: O'Kelly Variation, Venice System, Ljubojevic Line
+24	Semi-Slav Defense: Noteboom Variation, Anti-Noteboom Gambit
+24	Ruy Lopez: Pollock Defense
+24	Ruy Lopez: Berlin Defense, l'Hermet Variation
+24	Ruy Lopez: Berlin Defense, Fishing Pole Variation
+24	Rubinstein Opening: Bogoljubow Defense
+24	Nimzo-Indian Defense: Rubinstein System, Rubinstein Variation
+24	Nimzo-Indian Defense: Normal Variation, Gligoric System, Exchange Variation
+24	Modern Defense: Westermann Gambit
+24	Modern Defense: Gurgenidze Defense
+24	French Defense: Winawer Variation, Warsaw Variation
+24	French Defense: Winawer Variation, Poisoned Pawn Variation, Main Line
+24	French Defense: Winawer Variation, Advance Variation, with h4
+24	French Defense: Steinitz Variation, Gledhill Attack
+24	French Defense: Rubinstein Variation, Maric Variation
+24	French Defense: Classical Variation, Pollock Variation
+24	English Opening: Symmetrical Variation, Double Fianchetto
+24	Catalan Opening: Open Defense, Modern Sharp Variation
+24	Blumenfeld Countergambit
+24	Bird Opening: Dutch Variation, Dudweiler Gambit
+23	Slav Defense: Czech Variation, Classical System, Main Line
+23	Sicilian Defense: Kan Variation, Polugaevsky Variation
+23	Sicilian Defense: Dragon Variation, Yugoslav Attack, Hungarian Dragon
+23	Sicilian Defense: Dragon Variation, Classical Variation, Normal Line
+23	Ruy Lopez: Closed, Center Attack
+23	Queen's Gambit Accepted: Schwartz Defense
+23	Philidor Defense: Hanham Variation, Krause Variation
+23	Nimzowitsch Defense: Neo-Mongoloid Defense
+23	Nimzo-Indian Defense: Classical Variation, Zurich Variation
+23	Kádas Opening: Koola-Koola Variation
+23	King's Indian Defense: Sämisch Variation, Double Fianchetto
+23	King's Indian Defense: Averbakh Variation, Benoni Defense, Advance Variation
+23	Italian Game: Classical Variation, Center Holding Variation
+23	French Defense: Winawer Variation, Poisoned Pawn Variation
+23	French Defense: Winawer Variation, Advance Variation, Moscow Variation
+23	French Defense: Tarrasch Variation, Haberditz Variation
+23	English Opening: Symmetrical Variation, Botvinnik System Reversed, with e3
+23	English Opening: Anglo-Indian Defense, King's Indian Formation, Double Fianchetto
+23	Dutch Defense: Nimzo-Dutch Variation
+23	Blackmar-Diemer Gambit Accepted: Kaulich Defense
+22	Van Geet Opening: Tübingen Gambit
+22	Sicilian Defense: Scheveningen Variation, Matanovic Attack
+22	Sicilian Defense: Classical Variation, Fianchetto Variation
+22	Scandinavian Defense: Kádas Gambit
+22	Réti Opening: Réti Gambit, Keres Variation
+22	Ruy Lopez: Berlin Defense, Anti-Berlin Variation, Anderssen Variation
+22	Queen's Indian Defense: Petrosian Variation
+22	Polish Opening: Rooks Swap Line
+22	Nimzowitsch Defense: Scandinavian Variation, Aachen Gambit
+22	Nimzo-Indian Defense: Normal Variation, Botvinnik System
+22	London System: Poisoned Pawn Variation
+22	King's Indian Defense: Sämisch Variation, Sämisch Gambit Accepted
+22	King's Gambit Accepted: Bishop's Gambit, Greco Variation
+22	King's Gambit Accepted: Allgaier Gambit
+22	Italian Game: Evans Gambit, Slow Variation
+22	Italian Game: Evans Gambit, Mieses Defense
+22	Grob Opening: Alessi Gambit
+22	French Defense: Winawer Variation, Winckelmann-Reimer Gambit
+22	French Defense: McCutcheon Variation, Advance Variation
+22	Bird Opening: Myers Defense
+22	Benoni Defense: Classical Variation, Main Line
+22	Alekhine Defense: Four Pawns Attack, Cambridge Gambit
+21	Sicilian Defense: O'Kelly Variation, Normal System, Cortlever Gambit
+21	Sicilian Defense: Dragon Variation, Yugoslav Attack, Topalov Variation
+21	Queen's Gambit Declined: Manhattan Variation
+21	Queen's Gambit Declined: Albin Countergambit, Spassky Variation
+21	Pterodactyl Defense: Sicilian, Anhanguera
+21	Polish Opening: German Defense
+21	Philidor Defense: Hanham Variation, Delmar Variation
+21	Petrov's Defense: Classical Attack, Mason Variation
+21	King's Indian Defense: Petrosian Variation, Normal Defense
+21	King's Gambit Accepted: Salvio Gambit, Anderssen Counterattack
+21	French Defense: Rubinstein Variation, Ellis Gambit
+21	French Defense: Alekhine-Chatard Attack, Breyer Variation
+21	English Opening: King's English, Mazedonisch
+21	Benko Gambit Accepted: Dlugy Variation
+20	Van Geet Opening: Battambang Variation
+20	Tarrasch Defense: Classical Variation, Advance Variation
+20	Sicilian Defense: Kan Variation, Maróczy Bind, Bronstein Variation
+20	Queen's Gambit Declined: Miles Variation
+20	Queen's Gambit Declined: Alekhine Variation
+20	Philidor Defense: Lion Variation, Lion's Claw, with Bc4 and h6
+20	Nimzo-Indian Defense: Classical Variation, Milner-Barry Variation
+20	Modern Defense: Neo-Modern Defense
+20	Kádas Opening: Beginner's Trap
+20	King's Pawn Game: Bavarian Gambit
+20	King's Gambit Accepted: Rosentreter Gambit, Bird Gambit
+20	King's Gambit Accepted: Gaga Gambit
+20	King's Gambit Accepted: Bishop's Gambit, Bogoljubow Defense
+20	Indian Defense: Budapest Defense, Alekhine Variation, Abonyi Variation
+20	French Defense: Winawer Variation, Petrosian Variation
+20	Bishop's Opening: Lopez Variation
+19	Sicilian Defense: Smith-Morra Gambit Declined, Wing Formation
+19	Sicilian Defense: Richter-Rauzer Variation, Vitolins Variation
+19	Sicilian Defense: Richter-Rauzer Variation, Neo-Modern Variation, Early Deviations
+19	Sicilian Defense: King David's Opening
+19	Ruy Lopez: Exchange, Alekhine Variation
+19	Ruy Lopez: Exchange Variation, Romanovsky Variation
+19	Ruy Lopez: Closed, Morphy Attack
+19	Queen's Indian Defense: Kasparov-Petrosian Variation, Andersson Variation
+19	Queen's Gambit Declined: Semi-Tarrasch Defense, San Sebastian Variation
+19	Neo-Grünfeld Defense: Goglidze Attack
+19	King's Indian Defense: Orthodox Variation, Classical System, Neo-Classical Line
+18	Van Geet Opening: Myers Attack
+18	Tarrasch Defense: Classical Variation, Carlsbad Variation
+18	Sicilian Defense: Scheveningen Variation, Delayed Keres Attack
+18	Sicilian Defense: Magnus Smith Trap
+18	Sicilian Defense: Gaw-Paw Variation
+18	Réti Opening: Anglo-Slav Variation, Capablanca Variation
+18	Rat Defense: Petruccioli Attack
+18	Queen's Indian Defense: Anti-Queen's Indian System
+18	Polish Opening: Queenside Defense
+18	King's Gambit Declined: Falkbeer Countergambit, Anderssen Attack
+18	Italian Game: Scotch Gambit, Max Lange Attack Accepted
+18	Indian Defense: Pyrenees Gambit
+18	French Defense: St. George Defense, Sanky-George Gambit
+18	Four Knights Game: Scotch Variation, Belgrade Gambit, Modern Defense
+18	Blumenfeld Countergambit Accepted
+18	Blackmar-Diemer Gambit Accepted: Bogoljubow Defense, Studier Attack
+18	Benoni Defense: Pawn Storm Variation
+18	Alekhine Defense: Modern Variation, Panov Variation
+17	Vienna Game: Giraffe Attack
+17	St. George Defense: San Jorge Variation
+17	Slav Defense: Czech Variation, Krause Attack
+17	Sicilian Defense: Smith-Morra Gambit Accepted, Chicago Defense
+17	Sicilian Defense: O'Kelly Variation, Kieseritzky System
+17	Scotch Game: Classical Variation, Blackburne Attack
+17	Réti Opening: Advance Variation, Michel Gambit
+17	Ruy Lopez: Open Berlin Defense, l'Hermet Variation
+17	Ruy Lopez: Closed, Kholmov Variation
+17	Queen's Indian Defense: Classical Variation, Traditional Variation, Main Line
+17	Queen's Gambit Declined: Cambridge Springs Defense, Yugoslav Variation
+17	Pterodactyl Defense: Eastern, Pteranodon
+17	Polish Defense: Spassky Gambit Accepted
+17	Philidor Defense: Paulsen Attack
+17	Petrov's Defense: Kaufmann Attack
+17	Nimzo-Indian Defense: Normal Variation, Gligoric System, Bernstein Defense
+17	King's Pawn Game: Weber Gambit
+17	King's Indian Defense: Averbakh Variation, Nc6 Defense
+17	King's Gambit Accepted: Mayet Gambit
+17	King's Gambit Accepted: Kieseritzky Gambit, Cotter Gambit
+17	King's Gambit Accepted: Kieseritzky Gambit, Berlin Defense
+17	King's Gambit Accepted: Bishop's Gambit, Lopez Defense
+17	Italian Game: Evans Gambit, Tartakower Attack
+17	Grünfeld Defense: Counterthrust Variation
+17	English Opening: King's English Variation, Adhiban Gambit
+17	Bishop's Opening: Boden-Kieseritzky Gambit, Lichtenhein Defense
+17	Benoni Defense: Classical Variation, Czerniak Defense
+16	Vienna Game: Hamppe-Meitner Variation
+16	Slav Defense: Czech Variation, Wiesbaden Variation
+16	Sicilian Defense: Venice Attack
+16	Sicilian Defense: Nyezhmetdinov-Rossolimo Attack, Fianchetto Variation, Gufeld Gambit
+16	Sicilian Defense: Nimzowitsch Variation, Main Line
+16	Sicilian Defense: Nimzowitsch Variation, Exchange Variation
+16	Sicilian Defense: Brick Variation
+16	Semi-Slav Defense: Stoltz Variation, Shabalov Attack
+16	Scandinavian Defense: Anderssen Counterattack, Collijn Variation
+16	Ruy Lopez: Noah's Ark Trap
+16	Ruy Lopez: Berlin Defense, Nyholm Attack
+16	Queen's Gambit Declined: Orthodox Defense, Rubinstein Attack
+16	Queen's Gambit Declined: Albin Countergambit, Fianchetto Variation, Be6 Line
+16	Polish Opening: Tartakower Gambit
+16	Nimzo-Indian Defense: Normal Variation, Gligoric System
+16	Latvian Gambit Accepted: Bronstein Attack
+16	King's Indian Defense: Fianchetto Variation, Double Fianchetto Attack
+16	French Defense: McCutcheon Variation
+16	English Opening: Neo-Catalan Declined
+16	English Opening: King's English Variation, Closed System, Full Symmetry
+16	Dutch Defense: Fianchetto Variation
+16	Caro-Kann Defense: Spike Variation
+16	Bird Opening: Mujannah
+16	Benko Gambit Declined: Sosonko Variation
+15	Vienna Gambit, with Max Lange Defense: Quelle Gambit
+15	Torre Attack: Wagner Gambit
+15	Sicilian Defense: Delayed Alapin Variation, Basman-Palatnik Double Gambit
+15	Sicilian Defense: Alapin Variation, Barmen Defense, Milner-Barry Attack
+15	Semi-Slav Defense: Noteboom Variation, Abrahams Variation
+15	Scotch Game: Horwitz Attack
+15	Réti Opening: Anglo-Slav Variation, Bled Variation
+15	Ruy Lopez: Berlin Defense, Anti-Berlin Variation, Mortimer Variation
+15	Queen's Indian Defense: Miles Variation
+15	Queen's Indian Defense: Fianchetto Variation, Sämisch Variation
+15	Queen's Gambit Declined: Orthodox Defense, Fianchetto Variation
+15	Queen's Gambit Declined: Cambridge Springs Defense, Bogoljubow Variation
+15	Petrov's Defense: Classical Attack, Chigorin Variation
+15	Nimzo-Indian Defense: Rubinstein System, Taimanov Variation
+15	Nimzo-Indian Defense: Mikenas Attack
+15	Italian Game: Two Knights Defense, Kloss Gambit
+15	Italian Game: Evans Gambit, Waller Attack
+15	Indian Defense: Gibbins-Weidenhagen Gambit Accepted
+15	Hungarian Opening: Reversed Norwegian Defense
+15	Grünfeld Defense: Russian Variation, Accelerated Variation
+15	French Defense: Tarrasch Variation, Open System, Advance Line
+15	French Defense: Exchange Variation, Bogoljubow Variation
+15	French Defense: Classical Variation, Alapin Variation
+15	Four Knights Game: Spanish Variation, Nimzowitsch Variation
+15	English Opening: King's English Variation, Four Knights Variation, Fianchetto Line, with .. d6, h6
+15	Dutch Defense: Blackburne Variation
+15	Benoni Defense: Woozle
+15	Alekhine Defense: Modern Variation, Alekhine Variation
+14	Semi-Slav Defense: Noteboom Variation, Anti-Noteboom Variation, Belyavsky Line
+14	Scotch Game: Tartakower Variation
+14	Scandinavian Defense: Anderssen Counterattack, Orthodox Attack
+14	Ruy Lopez: Classical Defense, Boden Variation
+14	Ruy Lopez: Classical Defense, Benelux Variation
+14	Ruy Lopez: Bulgarian Variation
+14	Queen's Indian Defense: Riumin Variation
+14	Queen's Gambit Declined: Westphalian Variation
+14	Queen's Gambit Accepted: Furman Variation
+14	Petrov's Defense: Modern Attack, Murrey Variation
+14	Nimzo-Indian Defense: Ragozin Defense
+14	Marienbad System
+14	Latvian Gambit: Corkscrew Countergambit
+14	King's Pawn Game: Pachman Wing Gambit
+14	King's Indian Defense: Sämisch Variation, Panno Main Line
+14	King's Indian Defense: Pomar System
+14	King's Indian Defense: Fianchetto Variation, Hungarian Variation
+14	King's Gambit Declined: Falkbeer Countergambit, Miles Gambit
+14	King's Gambit Accepted: Greco Gambit
+14	Italian Game: Giuoco Piano, Rosentreter Variation
+14	Italian Game: Evans Gambit, Lasker Defense
+14	Indian Defense: Knights Variation, Alburt-Miles Variation
+14	French Defense: Banzai-Leong Gambit
+14	Englund Gambit Declined: Diemer Counterattack
+14	English Opening: King's English Variation, Four Knights Variation, Fianchetto Line, with Bc5
+14	Dutch Defense: Krause Variation
+14	Caro-Kann Defense: St. Patrick's Attack
+14	Bird Opening: From's Gambit, Langheld Gambit
+14	Benoni Defense: Mikenas Variation
+13	Zukertort Opening: The Potato
+13	Tarrasch Defense: Classical Variation, Endgame Variation
+13	Sicilian Defense: Velimirovic Attack
+13	Sicilian Defense: Richter-Rauzer Variation, Exchange Variation
+13	Sicilian Defense: Nyezhmetdinov-Rossolimo Attack, Brooklyn Retreat Defense
+13	Sicilian Defense: Najdorf Variation, Neo-Classical Defense
+13	Sicilian Defense: Kan Variation, Wing Attack, Fianchetto Variation
+13	Sicilian Defense: Closed, Grob Attack
+13	Sicilian Defense: Closed, Botvinnik Defense, with f4
+13	Semi-Slav Defense: Semi-Meran Variation
+13	Scandinavian Defense: Grünfeld Variation
+13	Ruy Lopez: Halloween Attack
+13	Ruy Lopez: Closed, Trajkovic Counterattack
+13	Queen's Indian Defense: Fianchetto Variation
+13	Queen's Gambit Accepted: Godes Variation
+13	Queen's Gambit Accepted: Alekhine Defense, Borisenko-Furman Variation
+13	Nimzo-Indian Defense: Rubinstein System, Hübner Variation
+13	King's Indian Defense: Averbakh Variation, Main Line
+13	King's Gambit Accepted: Philidor Gambit
+13	King's Gambit Accepted: Kieseritzky Gambit
+13	King's Gambit Accepted: Bishop's Gambit, First Jaenisch Variation
+13	Italian Game: Two Knights Defense, Steinitz Variation
+13	Italian Game: Classical Variation, Giuoco Pianissimo, with a5
+13	Horwitz Defense: Zilbermints Gambit
+13	Grünfeld Defense: Three Knights Variation, Vienna Variation
+13	English Opening: Anglo-Dutch Defense, Hickmann Gambit
+13	Caro-Kann Defense: Advance Variation, Prins Attack
+13	Benoni Defense: King's Pawn Line, with Nge2
+13	Benoni Defense: Fianchetto Variation, Hastings Defense, Main Line
+12	Vienna Gambit, with Max Lange Defense: Hamppe-Allgaier Gambit
+12	Trompowsky Attack: Poisoned Pawn Variation
+12	St. George Defense: Zilbermints Gambit
+12	Slav Defense: Czech Variation, Bled Attack
+12	Sicilian Defense: Smith-Morra Gambit Accepted, Siberian Variation, Siberian Trap
+12	Sicilian Defense: O'Kelly Variation, Wing Gambit
+12	Sicilian Defense: O'Kelly Variation, Venice System, Barcza Line
+12	Réti Opening: Anglo-Slav Variation
+12	Ruy Lopez: Steinitz Defense, Center Gambit
+12	Ruy Lopez: Morphy Defense, Fianchetto Defense Deferred
+12	Ruy Lopez: Classical Variation, Konikowski Gambit
+12	Ruy Lopez: Bird's Defense Deferred
+12	Rat Defense: Spike Attack
+12	Queen's Pawn Game: Chigorin Variation, Shropshire Defense
+12	Queen's Indian Defense: Yates Variation
+12	Ponziani Opening: Ponziani Countergambit, Schmidt Attack
+12	Philidor Defense: Nimzowitsch Variation, Rellstab Variation
+12	Petrov's Defense: Moody Gambit
+12	Owen Defense: Hekili-Loa Gambit
+12	Nimzo-Indian Defense: Classical Variation, Keres Defense
+12	Modern Defense: Bishop Attack, Monkey's Bum
+12	King's Gambit Accepted: Rosentreter Gambit, Testa Variation
+12	King's Gambit Accepted: Double Muzio Gambit
+12	King's Gambit Accepted: Bishop's Gambit, Steinitz Defense
+12	King's Gambit Accepted: Bishop's Gambit, Cozio Variation
+12	Italian Game: Giuoco Piano, Cracow Variation
+12	Indian Defense: Medusa Gambit
+12	Indian Defense: Dzindzi-Indian Defense
+12	Indian Defense: Budapest Defense, Alekhine Variation, Tartakower Defense
+12	Goldsmith Defense: Picklepuss Defense
+12	French Defense: Classical Variation, Vistaneckis Variation
+12	English Opening: King's English Variation, Four Knights Variation, Fianchetto Line, with .. d6, a6
+12	Elephant Gambit: Wasp Variation
+12	Bogo-Indian Defense: Haiti Variation
+12	Blackmar-Diemer Gambit Accepted: Ritter Defense
+12	Benoni Defense: Franco-Sicilian Hybrid
+12	Benoni Defense: Classical Variation, Full Line
+11	Ware Defense: Snagglepuss Defense
+11	Vienna Game: Vienna Gambit, Breyer Variation
+11	Vienna Game: Stanley Variation, Monster Declined
+11	Tarrasch Defense: Wagner Variation
+11	Semi-Slav Defense: Botvinnik Variation, Lilienthal Variation
+11	Ruy Lopez: Closed, Chigorin Defense, Panov System
+11	Ruy Lopez: Classical Variation, Cordel Gambit
+11	Ruy Lopez: Bird Variation, Paulsen Variation
+11	Queen's Indian Defense: Fianchetto Variation, Kramnik Variation
+11	Queen's Gambit Declined: Tartakower Defense, Exchange Variation
+11	Queen's Gambit Declined: Lasker Defense, Main Line
+11	Queen's Gambit Declined: Capablanca Variation, Anti-Cambridge Springs Variation
+11	Queen's Gambit Accepted: Old Variation, Christensen Gambit
+11	Queen's Gambit Accepted: Classical Defense, Normal Line
+11	Pterodactyl Defense: Western, Pterodactyl
+11	Pterodactyl Defense: Fianchetto, Queen Pteranodon
+11	Ponziani Opening: Steinitz Variation
+11	Philidor Defense: Nimzowitsch, Locock Variation
+11	Philidor Defense: Lion Variation, Shirov Gambit
+11	Philidor Defense: Lion Variation, Lion's Claw, with Be2 and c6
+11	Nimzo-Indian Defense: St. Petersburg Variation, with Ne4
+11	Modern Defense: Norwegian Defense, Norwegian Gambit
+11	King's Pawn Game: La Bourdonnais Gambit
+11	King's Gambit Accepted: Bishop's Gambit, Bledow Countergambit
+11	Italian Game: Scotch Gambit, Max Lange Attack, Long Variation
+11	Italian Game: Scotch Gambit, Canal Variation
+11	Italian Game: Evans Gambit Accepted
+11	Grünfeld Defense: Zaitsev Gambit
+11	Grünfeld Defense: Exchange Variation, Modern Exchange Variation, Kramnik's Line
+11	French Defense: McCutcheon Variation, Wolf Gambit
+11	French Defense: McCutcheon Variation, Exchange Variation
+11	English Opening: King's English Variation, Smyslov Defense
+11	English Opening: King's English Variation, Botvinnik System
+11	Bishop's Opening: Anderssen Gambit
+11	Benoni Defense: Fianchetto Variation, Hastings Defense
+11	Benoni Defense: Classical Variation, Traditional Variation
+11	Benko Gambit Declined: Bishop Attack
+10	Zukertort Opening: Drunken Cavalry Variation
+10	Zukertort Opening: Arctic Defense, Drunken Knight Variation
+10	Zukertort Opening: Ampel Variation
+10	Van Geet Opening: Venezolana Variation
+10	Tarrasch Defense: von Hennig Gambit
+10	Sicilian Defense: Yates Variation
+10	Sicilian Defense: Smith-Morra Gambit Accepted, Taimanov Formation
+10	Sicilian Defense: Scheveningen Variation, Fianchetto Variation
+10	Sicilian Defense: O'Kelly Variation, Venice System, Gambit Line
+10	Sicilian Defense: Najdorf Variation, Polugaevsky Variation
+10	Sicilian Defense: Coles Sicilian Gambit
+10	Ruy Lopez: Morphy Defense, Schliemann Defense Deferred, Jaenisch Gambit Deferred
+10	Ruy Lopez: Morphy Defense, Modern Steinitz Defense, Siesta Variation
+10	Ruy Lopez: Marshall Attack, Steiner Variation
+10	Ruy Lopez: Closed, Worrall Attack, Castling Line
+10	Rat Defense: English Rat, Pounds Gambit
+10	Queen's Pawn Game: Accelerated London System, Steinitz Countergambit, Morris Countergambit Accepted
+10	Pirc Defense: Austrian Attack, Unzicker Attack, Bronstein Variation
+10	Nimzo-Indian Defense: St. Petersburg Variation, Fischer Variation
+10	Nimzo-Indian Defense: Classical Variation, Berlin Variation, Pirc Variation
+10	Latvian Gambit Accepted: Nimzowitsch Attack
+10	Kádas Opening: Schneider Gambit
+10	King's Indian Defense: Sämisch Variation, Panno Formation
+10	King's Indian Defense: Sämisch Variation, Byrne Defense
+10	King's Indian Defense: Orthodox Variation, Modern System
+10	King's Indian Defense: Fianchetto Variation, Benjamin Defense
+10	King's Gambit Accepted: Bishop's Gambit, Bledow Variation
+10	French Defense: Classical Variation, Tarrasch Variation
+10	English Opening: Agincourt Defense, Keres Defense
+10	English Defense: Eastbourne Gambit
+10	Carr Defense: Zilbermints Gambit
+10	Caro-Kann Defense: Advance, Short Variation
+10	Caro-Kann Defense: Advance Variation, Van der Wiel Attack, Dreyev Defense
+10	Borg Defense: Zilbermints Gambit
+10	Blackmar-Diemer Gambit: Lemberger Countergambit, Soller Attack
+10	Benko Gambit: Zaitsev Variation, Nescafe Frappe Attack
+10	Barnes Opening: Fool's Mate
+9	Zukertort Defense: Sicilian Knight Variation
+9	Vienna Game: Philidor Countergambit
+9	Tarrasch Defense: Prague Variation, Main Line
+9	Sicilian Defense: Dragon Variation, Yugoslav Attack, Sosonko Variation
+9	Semi-Slav Defense: Marshall Gambit, Forgotten Variation
+9	Scotch Game: Romanishin Variation
+9	Scotch Game: Cochrane-Shumov Defense
+9	Ruy Lopez: Morphy Defense, Wing Attack
+9	Ruy Lopez: Berlin Defense, Hedgehog Variation
+9	Queen's Indian Defense: Traditional Variation
+9	Queen's Indian Defense: Fianchetto Variation, Nimzowitsch Variation, Quiet Line
+9	Queen's Gambit Declined: Semi-Slav, Abrahams Variation
+9	Queen's Gambit Declined: Orthodox Defense, Henneberger Variation
+9	Queen's Gambit Accepted: Linares Variation
+9	Queen's Gambit Accepted: Classical Defense, Alekhine System
+9	Philidor Defense: Lion Variation, Bishop Sacrifice
+9	Philidor Defense: Hanham, Kmoch Variation
+9	Owen Defense: Matovinsky Gambit
+9	Neo-Grünfeld Defense: Exchange Variation
+9	Lion Defense: Bayonet Attack
+9	Latvian Gambit: Corkscrew Gambit
+9	King's Pawn Game: Philidor Gambit
+9	King's Gambit Declined: Falkbeer Countergambit, Charousek Gambit, Morphy Defense
+9	King's Gambit Accepted: Salvio Gambit, Silberschmidt Defense
+9	King's Gambit Accepted: Allgaier Gambit, Urusov Attack
+9	French Defense: Winawer Variation, Eingorn Variation
+9	French Defense: Tarrasch Variation, Botvinnik Variation
+9	French Defense: Steinitz Variation, Bradford Attack Variation
+9	French Defense: McCutcheon Variation, Tartakower Variation
+9	English Opening: Wing Gambit
+9	English Opening: Anglo-Indian Defense, Slav Formation
+9	Dutch Defense: Staunton Gambit, Lasker Variation
+9	Caro-Kann Defense: Accelerated Panov Attack, Van Weersel Attack
+9	Benko Gambit Declined: Pseudo-Sämisch
+9	Benko Gambit Declined: Hjørring Countergambit
+9	Alekhine Defense: Welling Variation
+8	Vienna Gambit, with Max Lange Defense: Hamppe-Muzio Gambit
+8	Tarrasch Defense: Classical Variation, Réti Variation
+8	Semi-Slav Defense: Stonewall Defense
+8	Semi-Slav Defense: Gunderam Gambit
+8	Réti Opening: Anglo-Slav Variation, London Defensive System
+8	Ruy Lopez: Open, Bernstein Variation
+8	Ruy Lopez: Morphy Defense, Norwegian Variation, Nightingale Gambit
+8	Ruy Lopez: Morphy Defense, Alapin's Defense Deferred
+8	Ruy Lopez: Classical Variation, Charousek Variation
+8	Richter-Veresov Attack: Two Knights System, Grünfeld Defense
+8	Queen's Pawn Game: Accelerated London System, Steinitz Countergambit, Morris Countergambit
+8	Queen's Indian Defense: Kasparov-Petrosian Variation, Kasparov Attack
+8	Queen's Indian Defense: Kasparov-Petrosian Variation, Classical Variation
+8	Queen's Gambit Declined: Semi-Tarrasch Defense, Symmetrical Variation
+8	Queen's Gambit Declined: Semi-Tarrasch Defense, Main Line
+8	Queen's Gambit Declined: Exchange Variation, Sämisch Variation
+8	Queen's Gambit Declined: Cambridge Springs Defense, Rubinstein Variation
+8	Pterodactyl Defense: Sicilian, Benoni Gambit
+8	Portuguese Opening: Portuguese Gambit
+8	Ponziani Opening: Réti Variation
+8	Philidor Defense: Lion Variation, Delayed Bishop Sacrifice
+8	Nimzo-Larsen Attack: Norfolk Gambit
+8	Nimzo-Indian Defense: Spielmann Variation, Romanovsky Gambit
+8	Nimzo-Indian Defense: Simagin Variation
+8	Mexican Defense: Horsefly Gambit
+8	King's Indian Defense: Averbakh Variation, Modern Defense
+8	King's Gambit Declined: Falkbeer Countergambit, Charousek Gambit, Old Line
+8	King's Gambit Accepted: Wagenbach Defense
+8	King's Gambit Accepted: Salvio Gambit, Viennese Variation
+8	King's Gambit Accepted: Bishop's Gambit, Boden Variation
+8	Italian Game: Evans Gambit, Alapin-Steinitz Variation
+8	Indian Defense: Döry Indian
+8	Indian Defense: Devin Gambit
+8	Indian Defense: Budapest Defense, Fajarowicz-Steiner Variation
+8	Grünfeld Defense: Botvinnik Variation
+8	French Defense: Winawer Variation, Alekhine Gambit, Kan Variation
+8	French Defense: Winawer Variation, Advance Variation, with Bd3
+8	French Defense: St. George Defense, Traditional Line
+8	French Defense: Rubinstein Variation, Capablanca Line
+8	French Defense: McCutcheon Variation, Bernstein Variation
+8	French Defense: Advance Variation, Milner-Barry Gambit, Sørensen Variation
+8	English Defense: Perrin Variation
+8	Dutch Defense: Staunton Gambit, Chigorin Variation
+8	Dutch Defense: Omega-Isis Gambit
+8	Dutch Defense: Classical Variation, Ilyin-Zhenevsky Variation
+8	Clemenz Opening: Spike Lee Gambit
+8	Caro-Kann Defense: Massachusetts Defense
+8	Caro-Kann Defense: Karpov Variation, Smyslov Variation, Main Line
+8	Caro-Kann Defense: Karpov Variation, Modern Variation, Ivanchuk Defense
+8	Blackmar-Diemer Gambit Accepted: Teichmann Defense, Seidel-Hall Attack
+8	Bird Opening: Hobbs-Zilbermints Gambit
+8	Alekhine Defense: Modern Variation, Flohr Variation
+7	Zukertort Defense: Kingside Variation
+7	Vienna Game: Vienna Gambit, Wurzburger Trap
+7	Tarrasch Defense: Rubinstein System
+7	Slav Defense: Czech Variation, Carlsbad Variation
+7	Sicilian Defense: Najdorf Variation, Browne Variation
+7	Sicilian Defense: Kan Variation, Maróczy Bind, Hedgehog Variation
+7	Sicilian Defense: Dragon Variation, Yugoslav Attack, Chinese Dragon
+7	Sicilian Defense: Czerniak Attack, Queen Fianchetto Variation
+7	Sicilian Defense: Classical Variation, Dragon Transfer
+7	Scotch Game: Meitner Variation
+7	Scandinavian Defense: Portuguese Gambit, Elbow Variation
+7	Réti Opening: Advance Variation, Navara Gambit
+7	Ruy Lopez: Open, Main Line
+7	Ruy Lopez: Classical Variation, Spanish Wing Gambit
+7	Ruy Lopez: Central Countergambit
+7	Ruy Lopez: Berlin Defense, Anti-Berlin Variation, Mortimer Trap
+7	Queen's Gambit Declined: Zilbermints Gambit
+7	Queen's Gambit Declined: Albin Countergambit, Fianchetto Variation, Bf5 Line
+7	Queen's Gambit Accepted: Central Variation, Rubinstein Defense, Yefimov Gambit
+7	Pterodactyl Defense: Western, Anhanguera
+7	Pterodactyl Defense: Eastern, Benoni Pterodactyl
+7	Pirc Defense: 150 Attack, Sveshnikov-Jansa Attack
+7	Old Indian Defense: Janowski Variation, Grinberg Gambit
+7	Nimzowitsch Defense: Wheeler Gambit
+7	Nimzowitsch Defense: Scandinavian Variation, Bogoljubow Variation, Richter Gambit
+7	Nimzo-Larsen Attack: Ringelbach Gambit
+7	Neo-Grünfeld Defense: with g3
+7	Mikenas Defense: Pozarek Gambit
+7	Latvian Gambit Accepted: Foltys-Leonhardt Variation
+7	King's Gambit Accepted: Bishop's Gambit, Gianutio Gambit
+7	Grünfeld Defense: Exchange Variation, Simagin's Improved Variation
+7	French Defense: Advance Variation, Frenkel Gambit
+7	English Opening: King's English Variation, Bremen-Hort Variation
+7	English Opening: Anglo-Indian Defense, Grünfeld Formation
+7	English Opening: Agincourt Defense, Tarrasch Defense
+7	English Opening: Agincourt Defense, Neo-Catalan Declined, Early b3
+7	English Opening: Adorjan Defense
+7	Dutch Defense: Classical Variation, Ilyin-Zhenevsky Variation, Winter Variation
+7	Dutch Defense: Classical Variation, Buenos Aires Variation
+7	Colle System: Rhamphorhynchus Variation
+7	Caro-Kann Defense: Karpov Variation, Smyslov Variation
+7	Blackmar-Diemer Gambit Accepted: Teichmann Defense, Ciesielski Variation
+7	Anderssen's Opening: Polish Gambit
+6	Trompowsky Attack: Raptor Variation, Hergert Gambit
+6	Slav Defense: Exchange Variation, Trifunovic Variation
+6	Sicilian Defense: Smith-Morra Gambit Accepted, Sozin Formation
+6	Sicilian Defense: Scheveningen Variation, Classical Variation, Paulsen Variation
+6	Sicilian Defense: Scheveningen Variation, Classical Main Line
+6	Sicilian Defense: Moscow Variation, Haag Gambit
+6	Sicilian Defense: Delayed Alapin Variation, Basman-Palatnik Gambit
+6	Sicilian Defense: Closed, Smyslov Variation
+6	Sicilian Defense: Boleslavsky Variation, Louma Variation
+6	Semi-Slav Defense: Anti-Noteboom, Stonewall Variation, Portisch Gambit
+6	Scotch Game: Napoleon Gambit
+6	Scotch Game: Fraser Variation
+6	Scandinavian Defense: Portuguese Gambit, Jadoul Variation
+6	Ruy Lopez: Open, Skipworth Gambit
+6	Ruy Lopez: Marshall Attack, Main Line
+6	Ruy Lopez: Brentano Gambit
+6	Ruy Lopez: Berlin Defense, Tarrasch Trap
+6	Ruy Lopez: Berlin Defense, Rosenthal Variation
+6	Ruy Lopez: Berlin Defense, Rio de Janeiro Variation
+6	Ruy Lopez: Berlin Defense, Closed Showalter Variation
+6	Queen's Pawn Game: Levitsky Attack, Euwe Variation, Modern Line
+6	Queen's Indian Defense: Classical Variation, Polugaevsky Gambit
+6	Pterodactyl Defense: Central, Benoni Beefeater Pterodactyl
+6	Philidor Defense: Philidor Countergambit, del Rio Attack
+6	Petrov's Defense: Modern Attack, Trifunovic Variation
+6	Petrov's Defense: Classical Attack, Chigorin Variation, Browne Attack
+6	Owen Defense: Wind Gambit
+6	Old Indian Defense: Janowski Variation, Fianchetto Variation
+6	Nimzowitsch Defense: Hornung Gambit
+6	Nimzo-Indian Defense: Sämisch Variation, O'Kelly Variation
+6	Nimzo-Indian Defense: St. Petersburg Variation, American Variation
+6	King's Indian Defense: Semi-Classical Variation, Queenside Storm Line
+6	King's Indian Defense: Orthodox Variation, Classical System, Benko Attack
+6	King's Gambit Declined: Soller-Zilbermints Gambit
+6	King's Gambit Declined: Panteldakis Countergambit, Greco Variation
+6	King's Gambit Declined: Falkbeer Countergambit, Pickler Gambit
+6	King's Gambit Accepted: Stamma Gambit
+6	King's Gambit Accepted: McDonnell Gambit
+6	King's Gambit Accepted: Kieseritzky Gambit, Paulsen Defense
+6	King's Gambit Accepted: Carrera Gambit
+6	Italian Game: Evans Gambit, Morphy Attack
+6	Italian Game: Evans Gambit Declined, Cordel Variation
+6	Grünfeld Defense: Russian Variation, Szabo Variation
+6	Grünfeld Defense: Russian Variation, Hungarian Variation
+6	French Defense: Winawer Variation, Retreat Variation, Armenian Line
+6	French Defense: Winawer Variation, Poisoned Pawn Variation, Paoli Variation
+6	French Defense: Tarrasch Variation, Chistyakov Defense, Modern Line
+6	French Defense: McCutcheon Variation, Dr. Olland Variation
+6	French Defense: Classical Variation, Rubinstein Variation
+6	French Defense: Alekhine-Chatard Attack, Teichmann Variation
+6	Four Knights Game: Spanish Variation, Symmetrical Variation, Metger Unpin
+6	English Opening: King's English Variation, Closed System
+6	Bogo-Indian Defense
+5	Tarrasch Defense: Marshall Gambit
+5	Sicilian Defense: Pin Variation, Jaffe Variation
+5	Semi-Slav Defense: Hastings Variation
+5	Scandinavian Defense: Portuguese Gambit, Lusophobe Variation
+5	Ruy Lopez: Marshall Attack, Re3 Variation
+5	Ruy Lopez: Closed, Rosen Attack
+5	Ruy Lopez: Closed, Keres Defense
+5	Ruy Lopez: Berlin Defense, Anti-Berlin Variation, Duras Variation
+5	Queen's Pawn Game: Torre Attack, Breyer Variation
+5	Queen's Indian Defense: Kasparov-Petrosian Variation, Petrosian Attack
+5	Queen's Indian Defense: Euwe Variation
+5	Queen's Gambit Declined: Tarrasch Defense, Pseudo-Tarrasch Bishop Attack
+5	Queen's Gambit Declined: Lasker Defense, Teichmann Variation
+5	Queen's Gambit Declined: Austrian Defense, Haberditz Variation
+5	Queen's Gambit Declined: Albin Countergambit, Janowski Variation
+5	Pterodactyl Defense: Fianchetto, Queen Benoni Pterodactyl
+5	Ponziani Opening: Leonhardt Variation
+5	Philidor Defense: Hanham Variation, Sharp Variation
+5	Petrov's Defense: Classical Attack, Chigorin Variation, Main Line
+5	Nimzo-Indian Defense: Three Knights Variation, Euwe Variation
+5	Modern Defense: Pterodactyl Variation
+5	Modern Defense: Lizard Defense, Pirc-Diemer Gambit
+5	Latvian Gambit Accepted: Leonhardt Variation
+5	King's Pawn Game: Tayler Opening, Basman Gambit
+5	King's Pawn Game: Damiano Defense, Damiano Gambit, Chigorin Gambit
+5	King's Indian Defense: Santasiere Variation
+5	King's Indian Defense: Orthodox Variation, Bayonet Attack, Sokolov's Line
+5	King's Indian Defense: Four Pawns Attack, Fluid Attack
+5	King's Indian Attack: Smyslov Variation
+5	King's Gambit Accepted: Kieseritzky Gambit, Anderssen Defense
+5	Italian Game: Evans Gambit, Hein Countergambit
+5	Indian Defense: Omega Gambit, Arafat Gambit
+5	Hungarian Opening: Wiedenhagen-Beta Gambit
+5	Grünfeld Defense: Russian Variation, Byrne Variation
+5	Grob Opening: Romford Countergambit
+5	French Defense: St. George Defense, St. George Gambit
+5	French Defense: McCutcheon Variation, Janowski Variation
+5	French Defense: Alekhine-Chatard Attack, Spielmann Variation
+5	English Opening: Drill Variation
+5	English Opening: Anglo-Dutch Variation, Ferenc Gambit
+5	Dutch Defense: Staunton Gambit, Alekhine Variation
+5	Dutch Defense: Nimzo-Dutch Variation, Alekhine Variation
+5	Dutch Defense: Manhattan Gambit, Anti-Classical Line
+5	Dutch Defense: Alekhine Variation
+5	Center Game: Halasz-McDonnell Gambit, Crocodile Variation
+5	Bishop's Opening: Horwitz Gambit
+5	Benoni Defense: Snail Variation
+5	Benoni Defense: Hawk Variation
+5	Benoni Defense: Classical Variation, Argentine Counterattack
+5	Benko Gambit Accepted
+5	Alekhine Defense: Kmoch Variation
+4	Torre Attack: Fianchetto Defense, Euwe Variation
+4	Tarrasch Defense: Swedish Variation
+4	Tarrasch Defense: Classical Variation, Classical Tarrasch Gambit
+4	Sicilian Defense: Smith-Morra Gambit Accepted, Morphy Defense Deferred
+4	Sicilian Defense: Richter-Rauzer Variation, Traditional Variation
+4	Sicilian Defense: Richter-Rauzer Variation, Podebrady Variation
+4	Sicilian Defense: Prins Variation, Venice Attack
+4	Sicilian Defense: Nyezhmetdinov-Rossolimo Attack, Fianchetto Variation, Lutikov Gambit
+4	Sicilian Defense: Najdorf Variation, Scheveningen Variation
+4	Sicilian Defense: Najdorf Variation, Goteborg Variation
+4	Sicilian Defense: Kan Variation, Swiss Cheese Variation
+4	Sicilian Defense: Dragon Variation, Levenfish Variation, Main Line
+4	Sicilian Defense: Dragon Variation, Classical Variation, Alekhine Line
+4	Semi-Slav Defense: Rubinstein System
+4	Semi-Slav Defense: Meran Variation, Reynolds' Variation
+4	Semi-Slav Defense: Botvinnik Variation, Szabo Variation
+4	Ruy Lopez: Steinitz Defense, Semi-Duras Variation
+4	Ruy Lopez: Retreat Variation
+4	Ruy Lopez: Morphy Defense, Duras Variation
+4	Ruy Lopez: Exchange Variation, Alekhine Variation
+4	Ruy Lopez: Closed, Zaitsev System
+4	Ruy Lopez: Closed, Worrall Attack, Delayed Castling Line
+4	Ruy Lopez: Closed, Lutikov Variation
+4	Ruy Lopez: Closed, Borisenko Variation
+4	Ruy Lopez: Classical Variation, Modern Main Line
+4	Queen's Pawn, Mengarini Attack
+4	Queen's Gambit Declined: Semi-Tarrasch Defense, Endgame Variation
+4	Queen's Gambit Declined: Orthodox Defense, Classical Variation
+4	Pterodactyl Defense: Sicilian, Unpin
+4	Pterodactyl Defense: Eastern, Benoni Pteranodon
+4	Pterodactyl Defense: Central, Benoni Quetzalcoatlus
+4	Polish Opening: Wolferts Gambit
+4	Philidor Defense: Hanham Variation, Steiner Variation
+4	Petrov's Defense: Classical Attack, Jaenisch Variation
+4	Old Indian Defense: Duz-Khotimirsky Variation
+4	Mieses Opening: Venezolana Variation
+4	Kádas Opening: Kádas Gambit
+4	King's Indian Defense: Sämisch Variation, Closed Variation, Main Line
+4	King's Indian Defense: Orthodox Variation, Donner Defense
+4	King's Indian Defense: Orthodox Variation, Classical System, Traditional Line
+4	King's Gambit Accepted: Tumbleweed
+4	King's Gambit Accepted: Salvio Gambit, Cochrane Gambit
+4	King's Gambit Accepted: Paris Gambit
+4	King's Gambit Accepted: Kieseritzky Gambit, Rosenthal Defense
+4	King's Gambit Accepted: Kieseritzky Gambit, Brentano Defense
+4	King's Gambit Accepted: Bishop's Gambit, Anderssen Variation
+4	Italian Game: Scotch Gambit, Anderssen Attack, Main Line
+4	Italian Game: Classical Variation, Ghulam-Kassim Variation
+4	Indian Defense: Budapest Defense, Fajarowicz Defense, Bonsdorf Variation
+4	Grünfeld Defense: Russian Variation, Smyslov Variation
+4	Grünfeld Defense: Exchange Variation, Nadanian Attack
+4	Grünfeld Defense: Brinckmann Attack, Grünfeld Gambit Accepted
+4	French Defense: Winawer Variation, Poisoned Pawn Variation Declined
+4	Four Knights Game: Scotch Variation, Krause Gambit, Leonhardt Defense
+4	English Opening: Wade Gambit
+4	English Opening: Romanishin Gambit
+4	English Opening: Anglo-Indian Defense, Queen's Indian Variation
+4	Dutch Defense: Staunton Gambit, Nimzowitsch Variation
+4	Dutch Defense: Spielmann Gambit
+4	Dutch Defense: Manhattan Gambit, Anti-Stonewall
+4	Dutch Defense: Classical Variation, Ilyin-Zhenevsky Variation, Modern Main Line
+4	Caro-Kann Defense: Scorpion-Horus Gambit
+4	Caro-Kann Defense: Karpov Variation, Tiviakov-Fischer Attack
+4	Caro-Kann Defense: Karpov Variation, Modern Main Line
+4	Blackmar-Diemer Gambit Accepted: Bogoljubow Defense, Nimzowitsch Attack
+4	Bird Opening: Thomas Gambit
+4	Benoni Defense: King's Pawn Line, with Be3
+4	Benko Gambit Accepted: Central Storming Variation
+4	Alekhine Defense: Modern Variation, Keres Variation
+3	Vienna Game: Stanley Variation, Alekhine Variation
+3	Vienna Game: Heyde Variation
+3	Vienna Gambit, with Max Lange Defense: Steinitz Gambit, Paulsen Defense
+3	Van Geet Opening: Sleipnir Gambit
+3	Slav Defense: Smyslov Variation
+3	Slav Defense: Czech Variation, Wiesbaden Variation, Sharp Line
+3	Sicilian Defense: Taimanov Variation, Bastrikov Variation, Ponomariov Gambit
+3	Sicilian Defense: Scheveningen Variation, Tal Variation
+3	Sicilian Defense: Nyezhmetdinov-Rossolimo Attack, Gurgenidze Variation
+3	Semi-Slav Defense: Meran Variation, Wade Variation, Larsen Variation
+3	Semi-Slav Defense: Botvinnik Variation, Alatortsev System
+3	Scotch Game: Braune Variation
+3	Scandinavian Defense: Zilbermints Gambit
+3	Ruy Lopez: Open, Italian Variation
+3	Ruy Lopez: Berlin Defense, Minckwitz Variation
+3	Ruy Lopez: Berlin Defense, Closed Bernstein Variation
+3	Queen's Indian Defense: Kasparov-Petrosian Variation, Modern Variation
+3	Queen's Indian Defense: Fianchetto Variation, Check Variation
+3	Queen's Gambit Declined: Orthodox Defense, Swiss, Carlsbad Variation
+3	Queen's Gambit Declined: Baltic Defense, Argentinian Gambit
+3	Queen's Gambit Accepted: Gunsberg Defense, Prianishenmo Gambit
+3	Pterodactyl Defense: Sicilian, Siroccopteryx
+3	Pterodactyl Defense: Austrian, Grand Prix Pterodactyl
+3	Philidor Defense: Lion Variation, Forcing Line
+3	Petrov's Defense: Classical Attack, Marshall Variation, Chinese Gambit
+3	Owen Defense: Unicorn Variation
+3	Nimzo-Indian Defense: Romanishin Variation, English Hybrid
+3	Nimzo-Indian Defense: Normal Variation, Bernstein Defense
+3	Lion Defense: Anti-Philidor, Lion's Cave, Lion Claw Gambit
+3	King's Pawn Opening: Van Hooydoon Gambit
+3	King's Indian Defense: Fianchetto Variation, Long Variation
+3	King's Indian Defense: Averbakh Variation, Spanish Defense
+3	King's Gambit Declined: Classical Variation, Rotlewi Countergambit
+3	King's Gambit Accepted: Tartakower Gambit
+3	King's Gambit Accepted: Salvio Gambit, Santa Maria Defense
+3	King's Gambit Accepted: Kieseritzky, Polerio Defense
+3	King's Gambit Accepted: Kieseritzky Gambit, Berlin Defense, Rubinstein Variation
+3	King's Gambit Accepted: Double Muzio Gambit, Bello Gambit
+3	King's Gambit Accepted: Dodo Variation
+3	King's Gambit Accepted: Basman Gambit
+3	Italian Game: Two Knights Defense, Pincus Variation
+3	Italian Game: Evans Gambit, Mayet Defense
+3	Italian Game: Evans Gambit, Dufresne Defense
+3	Italian Game: Evans Gambit Declined, Showalter Variation
+3	Grünfeld Defense: Russian Variation, Levenfish Variation
+3	Grünfeld Defense: Flohr Variation
+3	Grünfeld Defense: Exchange Variation, Seville Variation
+3	Grünfeld Defense: Brinckmann Attack, Grünfeld Gambit, Capablanca Variation
+3	Grob Opening: Zilbermints Gambit
+3	Grob Opening: Grob Gambit, Richter-Grob Gambit
+3	French Defense: Winawer Variation, Fingerslip Variation, Main Line
+3	French Defense: Reversed Philidor Formation
+3	French Defense: Morphy Gambit
+3	French Defense: McCutcheon Variation, Grigoriev Variation
+3	Four Knights Game: Spanish Variation, Rubinstein Variation, Marshall Variation
+3	English Opening: Symmetrical Variation, Anti-Benoni Variation, Geller Variation
+3	English Opening: King's English Variation, Bellon Gambit
+3	Dutch Defense: Kingfisher Gambit
+3	Dutch Defense: Bladel Variation
+3	Center Game: Charousek Variation
+3	Caro-Kann Defense: Mieses Attack, Landau Gambit
+3	Borg Defense: Troon Gambit
+3	Blackmar-Diemer Gambit: Lemberger Countergambit, Rasmussen Attack
+3	Benko Gambit: Nescafe Frappe Attack
+3	Benko Gambit: Fianchetto Variation
+3	Barnes Opening: Gedult Gambit
+3	Alekhine Defense: Two Pawns Attack, Mikenas Variation
+2	Zaire Defense
+2	Vienna Game: Stanley Variation, Frankenstein-Dracula Variation
+2	Vienna Game: Paulsen Variation, Pollock Gambit
+2	Vienna Gambit, with Max Lange Defense: Hamppe-Allgaier Gambit, Thorold Variation
+2	Van't Kruijs Opening: Keoni-Hiva Gambit, Ekolu Variation
+2	Van't Kruijs Opening: Keoni-Hiva Gambit, Alua Variation
+2	Van't Kruijs Opening: Keoni-Hiva Gambit, Akahi Variation
+2	Van Geet Opening: Twyble Attack
+2	Van Geet Opening: Liebig Gambit
+2	Van Geet Opening: Hergert Gambit
+2	Van Geet Opening: Damhaug Gambit
+2	Torre Attack: Classical Defense, Petrosian Gambit
+2	Tarrasch Defense: Classical Variation, Bogoljubow Variation
+2	Slav Defense: Winawer Countergambit, Anti-Winawer Gambit
+2	Slav Defense: Czech Variation, Lasker Variation
+2	Slav Defense: Czech Variation, Carlsbad Variation, Morozevich Variation
+2	Sicilian Defense: Smith-Morra Gambit Accepted, Larsen Defense
+2	Sicilian Defense: Richter-Rauzer Variation, Neo-Modern Variation, Nyezhmetdinov Attack
+2	Sicilian Defense: Lasker-Pelikan Variation, Sveshnikov Variation, Peresypkin's Sacrifice
+2	Sicilian Defense: Gloria Variation
+2	Sicilian Defense: Dragon Variation, Yugoslav Attack, Soltis Variation
+2	Sicilian Defense: Dragon Variation, Classical Variation, Maróczy Line
+2	Sicilian Defense: Closed, Botvinnik Defense, Edge Variation
+2	Semi-Slav Defense: Meran Variation, Lundin Variation
+2	Semi-Slav Defense: Meran Variation, Blumenfeld Variation
+2	Semi-Slav Defense: Botvinnik Variation, Ekstrom Variation
+2	Scotch Game: Cochrane Variation
+2	Scandinavian Defense: Portuguese Gambit, Melbourne Shuffle Variation
+2	Réti Opening: Anglo-Slav Variation, Torre System
+2	Ruy Lopez: Schliemann Defense, Classical Variation
+2	Ruy Lopez: Open, St. Petersburg Variation
+2	Ruy Lopez: Open, Howell Attack
+2	Ruy Lopez: Open, Dilworth Variation
+2	Ruy Lopez: Open, Classical Defense, Main Line
+2	Ruy Lopez: Marshall Attack, Main Line, Spassky Variation
+2	Ruy Lopez: Closed, Suetin Variation
+2	Ruy Lopez: Closed, Karpov Variation
+2	Ruy Lopez: Closed, Breyer Defense
+2	Ruy Lopez: Closed, Breyer
+2	Ruy Lopez: Closed, Balla Variation
+2	Ruy Lopez: Brix Variation
+2	Ruy Lopez: Alapin Defense, Alapin Gambit
+2	Queen's Indian Defense: Petrosian Variation, Farago Defense
+2	Queen's Indian Defense: Kasparov-Petrosian Variation, Polovodin Gambit
+2	Queen's Indian Defense: Fianchetto Variation, Rubinstein Variation
+2	Queen's Gambit Declined: Stonewall Variation
+2	Queen's Gambit Declined: Spielmann Variation
+2	Queen's Gambit Declined: Pillsbury Attack
+2	Queen's Gambit Declined: Orthodox Defense, Rubinstein Variation, Flohr Line
+2	Queen's Gambit Declined: Charousek Variation, Miladinovic Gambit
+2	Queen's Gambit Declined: Anti-Tartakower Variation, Petrosian Variation
+2	Pterodactyl Defense: Western, Siroccopteryx
+2	Pterodactyl Defense: Sicilian, Pteranodon
+2	Pterodactyl Defense: Central, Benoni Pterodactyl
+2	Ponziani Opening: Spanish Variation, Harrwitz Attack, Nikitin Gambit
+2	Petrov's Defense: Modern Attack, Steinitz Variation
+2	Petrov's Defense: Classical Attack, Tarrasch Variation
+2	Nimzowitsch Defense: Kennedy Variation, Herford Gambit
+2	Nimzo-Indian Defense: Sämisch Variation, Keres Variation
+2	Nimzo-Indian Defense: St. Petersburg Variation, Romanishin–Psakhis Variation
+2	Nimzo-Indian Defense: Spielmann Variation, Carlsbad Variation
+2	Nimzo-Indian Defense: Rubinstein System, Rubinstein Variation, Main Line
+2	Nimzo-Indian Defense: Ragozin Variation
+2	Nimzo-Indian Defense: Normal Variation, Gligoric System, Keres Variation
+2	Nimzo-Indian Defense: Normal Variation, Gligoric System, Bronstein Variation
+2	Nimzo-Indian Defense: Normal Variation, Bernstein Defense, Exchange Line
+2	Modern Defense: Two Knights Variation, Suttles Variation, Tal Gambit
+2	Latvian Gambit: Mayet Attack, Poisoned Pawn Variation
+2	Latvian Gambit: Behting Variation
+2	King's Pawn Game: Gunderam Defense, Gunderam Gambit
+2	King's Indian Defense: Four Pawns Attack, Modern Defense
+2	King's Indian Defense: Four Pawns Attack, Florentine Gambit
+2	King's Gambit Declined: Senechaud Countergambit
+2	King's Gambit Declined: Norwalde Variation, Bücker Gambit
+2	King's Gambit Declined: Falkbeer Countergambit, Charousek Gambit, Keres Variation
+2	King's Gambit Declined: Classical Variation, Rubinstein Countergambit
+2	King's Gambit Accepted: Schurig Gambit, with Bd3
+2	King's Gambit Accepted: Schurig Gambit, with Bb5
+2	King's Gambit Accepted: Kieseritzky Gambit, Neumann Defense
+2	King's Gambit Accepted: Kieseritzky Gambit, Berlin Defense, de Riviere Variation
+2	King's Gambit Accepted: Bishop's Gambit, Paulsen Attack
+2	King's Gambit Accepted: Bishop's Gambit, Lopez Variation
+2	King's Gambit Accepted: Bishop's Gambit, Bryan Countergambit
+2	King's Gambit Accepted: Allgaier, Horny Defense
+2	Italian Game: Two Knights Defense, Traxler Variation, Trencianske-Teplice Gambit
+2	Italian Game: Two Knights Defense, Polerio Defense, Göring Variation
+2	Italian Game: Two Knights Defense, Paoli Variation
+2	Italian Game: Two Knights Defense, Keidansky Variation
+2	Italian Game: Giuoco Piano, Steinitz Variation
+2	Italian Game: Giuoco Piano, Bernstein Variation
+2	Italian Game: Evans Gambit, Fontaine Countergambit
+2	Indian Defense: Lazard Gambit
+2	Indian Defense: Gibbins-Weidenhagen Gambit, Stummer Gambit
+2	Grünfeld Defense: Russian Variation, Prins Variation
+2	Grünfeld Defense: Exchange Variation, Simagin's Lesser Variation
+2	Grünfeld Defense: Exchange Variation, Modern Exchange Variation, Pawn Grab Line
+2	Grob Opening: Grob Gambit, Basman Gambit
+2	French Defense: Winawer Variation, Advance Variation, Smyslov Variation
+2	French Defense: Tarrasch Variation, Leningrad Variation
+2	English Opening: Symmetrical, Hedgehog, Flexible Formation
+2	English Opening: King's English Variation, Hungarian Attack
+2	English Opening: King's English Variation, Four Knights Variation, Fianchetto Line, Delayed .. Nc6
+2	English Opening: Anglo-Indian Defense, Romanishin Variation
+2	Dutch Defense: Staunton Gambit, Tartakower Variation
+2	Dutch Defense: Senechaud Gambit
+2	Dutch Defense: Classical Variation, Ilyin-Zhenevsky Variation, Alatortsev-Lisitsyn Line
+2	Dutch Defense: Classical Variation, Blackburne Attack
+2	Caro-Kann Defense: Edinburgh Variation
+2	Blumenfeld Countergambit: Duz-Khotimirsky Variation
+2	Blackmar-Diemer Gambit Declined: Gedult Defense
+2	Blackmar-Diemer Gambit Accepted: Schlutter Defense
+2	Blackmar-Diemer Gambit Accepted: Bogoljubow Defense, Kloss Attack
+2	Bishop's Opening: McDonnell Gambit, La Bourdonnais-Denker Gambit
+2	Bishop's Opening: McDonnell Gambit
+2	Bird Opening: Platz Gambit
+2	Benoni Defense: Benoni-Staunton Gambit
+2	Benko Gambit: Mutkin Countergambit
+2	Amsterdam Attack
+2	Alekhine Defense: Hunt Variation, Matsukevich Gambit
+2	Alekhine Defense: Brooklyn Variation, Everglades Variation
+1	Zukertort Opening: Shabalov Gambit
+1	Vienna Game: Zhuravlev Countergambit
+1	Vienna Game: Vienna Gambit, Kaufmann Variation
+1	Vienna Gambit, with Max Lange Defense: Hamppe-Allgaier Gambit, Alapin Variation
+1	Van't Kruijs Opening: Bouncing Bishop Variation
+1	Van Geet Opening: Hulsemann Gambit
+1	Van Geet Opening: Gladbacher Gambit
+1	Three Knights Opening: Steinitz-Rosenthal Variation
+1	Tarrasch Defense: Grünfeld Gambit
+1	Tarrasch Defense: Classical Variation, Spassky Variation
+1	Tarrasch Defense: Classical Variation, Petursson Variation
+1	Slav Defense: Quiet Variation, Amsterdam Variation
+1	Sicilian Defense: Wing Gambit, Marienbad Variation
+1	Sicilian Defense: Taimanov Variation, Modern Line
+1	Sicilian Defense: Spielmann Variation
+1	Sicilian Defense: Sozin Attack, Fischer Variation
+1	Sicilian Defense: Scheveningen Variation, Delayed Keres Attack, Perenyi Gambit
+1	Sicilian Defense: Richter-Rauzer Variation, Ivanov Variation
+1	Sicilian Defense: Richter-Rauzer Variation, Classical Variation, Kantscher Line
+1	Sicilian Defense: Najdorf Variation, Dekker Gambit
+1	Sicilian Defense: Moscow Variation, Moscow Gambit
+1	Sicilian Defense: Kronberger Variation, Nemeth Gambit
+1	Sicilian Defense: Kan Variation, Wing Attack, Spraggett Attack
+1	Sicilian Defense: Kan Variation, Gipslis Variation
+1	Sicilian Defense: Heidenfeld Variation
+1	Semi-Slav Defense: Stoltz Variation, Center Variation
+1	Semi-Slav Defense: Meran Variation, Wade Variation, Kaidanov Gambit
+1	Semi-Slav Defense: Meran Variation, Sozin Variation
+1	Semi-Slav Defense: Meran Variation, Old Variation
+1	Semi-Slav Defense: Marshall Gambit, Tolush Variation
+1	Scotch Game: Sea-Cadet Mate
+1	Scotch Game: Paulsen Variation
+1	Scotch Game: Hanneken Variation
+1	Scandinavian Defense: Schiller-Pytel Variation, Modern Variation
+1	Scandinavian Defense: Modern Variation, Wing Gambit
+1	Ruy Lopez: Steinitz Defense Deferred, Lipnitsky Variation
+1	Ruy Lopez: Spanish Countergambit, Harding Gambit
+1	Ruy Lopez: Open, Motzko Attack
+1	Ruy Lopez: Open, Malkin Variation
+1	Ruy Lopez: Open, Breslau Variation
+1	Ruy Lopez: Open, Berlin Variation
+1	Ruy Lopez: Open Berlin Defense, Showalter Variation
+1	Ruy Lopez: Morphy Defense, Tartakower Variation
+1	Ruy Lopez: Fianchetto Defense, Kevitz Gambit
+1	Ruy Lopez: Closed, Yates Variation, Short Attack
+1	Ruy Lopez: Closed, Smyslov-Breyer-Zaitsev Hybrid
+1	Ruy Lopez: Closed, Breyer Defense, Quiet Variation
+1	Ruy Lopez: Closed Berlin Defense, Chigorin Variation
+1	Ruy Lopez: Berlin Defense, Winawer Attack
+1	Ruy Lopez: Berlin Defense, Cordel Variation
+1	Richter-Veresov Attack: Malich Gambit
+1	Queen's Indian Defense: Opocensky Variation
+1	Queen's Indian Defense: Kasparov-Petrosian Variation, Romanishin Attack
+1	Queen's Indian Defense: Kasparov-Petrosian Variation, Hedgehog Variation
+1	Queen's Indian Defense: Kasparov Variation, Botvinnik Attack
+1	Queen's Indian Defense: Fianchetto Variation, Check Variation, Modern Line
+1	Queen's Indian Defense: Classical Variation, Tiviakov Defense
+1	Queen's Indian Defense: Classical Variation, Taimanov Gambit
+1	Queen's Gambit Declined: Semi-Tarrasch Defense, Kmoch Variation
+1	Queen's Gambit Declined: Semi-Slav, Koomen Variation
+1	Queen's Gambit Declined: Semi-Slav, Junge Variation
+1	Queen's Gambit Declined: Orthodox Defense, Rauzer Variation
+1	Queen's Gambit Declined: Exchange Variation, Carlsen Variation
+1	Queen's Gambit Declined: Chigorin Defense, Exchange Variation, Costa's Line
+1	Queen's Gambit Declined: Albin Countergambit, Krenosz Variation
+1	Queen's Gambit Declined: Albin Countergambit, Balogh Variation
+1	Queen's Gambit Accepted: Old Variation, Billinger Gambit
+1	Queen's Gambit Accepted: Classical Defense, Alekhine System, Main Line
+1	Pterodactyl Defense: Fianchetto, Queen Pterodactyl
+1	Pterodactyl Defense: Central, Quetzalcoatlus Gambit
+1	Pterodactyl Defense: Austrian, Pteranodon
+1	Pterodactyl Defense: Austrian, Austriadactylus Western
+1	Portuguese Opening: Miguel Gambit
+1	Old Indian Defense: Aged Gibbon Gambit
+1	Nimzowitsch Defense: Scandinavian Variation, Bogoljubow Variation, Erben Gambit
+1	Nimzowitsch Defense: Scandinavian Variation, Bogoljubow Variation, Brandics Gambit
+1	Nimzowitsch Defense: El Columpio Defense, Pin Variation
+1	Nimzowitsch Defense: El Columpio Defense, Exchange Variation
+1	Nimzo-Indian Defense: Sämisch Variation, Romanovsky Variation
+1	Nimzo-Indian Defense: Sämisch Variation, Capablanca Variation
+1	Nimzo-Indian Defense: Sämisch Variation, Botvinnik Variation
+1	Nimzo-Indian Defense: Leningrad Variation, Benoni Defense
+1	Nimzo-Indian Defense: Leningrad Variation, Averbakh Gambit
+1	Nimzo-Indian Defense: Classical Variation, Vitolins-Adorjan Gambit
+1	Nimzo-Indian Defense: Classical Variation, Romanishin Gambit
+1	Nimzo-Indian Defense: Classical Variation, Noa Variation, San Remo Variation
+1	Nimzo-Indian Defense: Classical Variation, Noa Variation, Main Line
+1	Nimzo-Indian Defense: Classical Variation, Modern Variation
+1	Nimzo-Indian Defense: Classical Variation, Berlin Variation, Steiner Variation
+1	Nimzo-Indian Defense: Classical Variation, Berlin Variation, Macieja System
+1	Modern Defense: Semi-Averbakh Variation, Pterodactyl Variation Accepted
+1	Modern Defense: Semi-Averbakh Variation, Polish Variation
+1	Modern Defense: Bishop Attack, Bücker Gambit
+1	Mieses Opening: Myers Spike Attack
+1	Latvian Gambit: Mayet Attack, Strautins Gambit
+1	Latvian Gambit: Diepstraten Countergambit
+1	Latvian Gambit Accepted: Foltys Variation
+1	Latvian Gambit Accepted: Bronstein Gambit
+1	King's Indian Defense: Petrosian Variation, Keres Defense
+1	King's Indian Defense: Orthodox Variation, Korchnoi Attack
+1	King's Indian Defense: Four Pawns Attack, Exchange Variation
+1	King's Gambit Declined: Zilbermints Double Gambit
+1	King's Gambit Declined: Panteldakis Countergambit, Pawn Sacrifice Line
+1	King's Gambit Declined: Norwalde Variation, Schubert Variation
+1	King's Gambit Declined: Classical, Hanham Variation
+1	King's Gambit Declined: Classical Variation, Walthoffen Attack
+1	King's Gambit Accepted: Rosentreter Gambit, Sörensen Gambit
+1	King's Gambit Accepted: Philidor Gambit, Schultz Variation
+1	King's Gambit Accepted: Muzio Gambit, Brentano Defense
+1	King's Gambit Accepted: Muzio Gambit Accepted, From's Defense
+1	King's Gambit Accepted: Kieseritzky Gambit, Paulsen Defense Deferred
+1	King's Gambit Accepted: Kieseritzky Gambit, Anderssen-Cordel Gambit
+1	King's Gambit Accepted: Eisenberg Variation
+1	King's Gambit Accepted: Bishop's Gambit, Boren-Svenonius Variation
+1	King's Gambit Accepted: Australian Gambit
+1	King's Gambit Accepted: Allgaier, Schlechter Defense
+1	King's Gambit Accepted: Allgaier, Blackburne Gambit
+1	King's Gambit Accepted: Allgaier Gambit, Thorold Attack
+1	King's Gambit Accepted: Abbazia Defense, Main Line
+1	Italian Game: Two Knights Defense, Ulvestad Variation, Kurkin Gambit
+1	Italian Game: Giuoco Piano, Holzhausen Attack
+1	Italian Game: Evans Gambit, Sokolsky Variation
+1	Italian Game: Evans Gambit, Richardson Attack
+1	Italian Game: Evans Gambit, Laroche Variation
+1	Italian Game: Evans Gambit, Compromised Defense, Main Line
+1	Italian Game: Evans Gambit Declined, Lange Variation
+1	Italian Game: Classical Variation, Giuoco Pianissimo, Main Line
+1	Indian Defense: Gibbins-Weidenhagen Gambit, Maltese Falcon
+1	Indian Defense: Anti-Grünfeld, Alekhine Variation, Leko Gambit
+1	Hungarian Opening: Winterberg Gambit
+1	Hungarian Opening: Pachman Gambit
+1	Grünfeld Defense: Flohr Defense
+1	Grünfeld Defense: Exchange Variation, Sokolsky Variation
+1	Grünfeld Defense: Brinckmann Attack, Reshevsky Gambit
+1	Grob Opening: Keene Defense, Main Line
+1	Grob Opening: Grob Gambit, Fritz Gambit, Romford Countergambit
+1	Grob Opening: Double Grob, Coca-Cola Gambit
+1	French Defense: Winawer Variation, Kondratiyev Variation
+1	French Defense: Winawer Variation, Bogoljubow Variation, Icelandic Defense
+1	French Defense: Tarrasch Variation, Guimard Defense, Thunderbunny Variation
+1	Four Knights Game: Spanish Variation, Symmetrical Variation, Tarrasch Variation
+1	Four Knights Game: Spanish Variation, Svenonius Variation
+1	Four Knights Game: Spanish Variation, Rubinstein Variation, Marshall Gambit
+1	English Opening: King's English Variation, Botvinnik System, Prickly Pawn Pass System
+1	English Opening: Closed, Taimanov Variation
+1	English Opening: Anglo-Indian Defense, Zvjaginsev-Krasenkow Attack
+1	Dutch Defense: Stonewall Variation, Botvinnik Variation
+1	Dutch Defense: Staunton Gambit, American Attack
+1	Dutch Defense: Manhattan Gambit, Anti-Modern
+1	Dresden Opening: The Goblin
+1	Danish Gambit Accepted: Svenonius Defense
+1	Center Game: l'Hermet Variation
+1	Catalan Opening: Open Defense, Alekhine Variation
+1	Catalan Opening: Closed, Sokolsky Variation
+1	Catalan Opening: Closed Variation, Rabinovich Variation
+1	Caro-Kann Defense: Panov Attack, Modern Defense, Czerniak Line
+1	Caro-Kann Defense: Exchange Variation, Bulla Attack
+1	Caro-Kann Defense: Breyer Variation, Stein Attack
+1	Caro-Kann Defense: Accelerated Panov Attack, Pseudo-Scandinavian
+1	Bogo-Indian Defense: New England Variation
+1	Blackmar-Diemer Gambit Accepted: Holwell Defense
+1	Blackmar-Diemer Gambit Accepted: Gunderam Defense, Stader Variation
+1	Blackmar-Diemer Gambit Accepted: Bogoljubow Defense, Mad Dog Attack
+1	Bishop's Opening: Lopez Gambit
+1	Bishop's Opening: Lewis Countergambit
+1	Bird Opening: Siegener Gambit
+1	Bird Opening: From's Gambit, Lipke Variation
+1	Benoni Defense: Zilbermints-Benoni Gambit
+1	Amar Opening: Paris Gambit
+1	Alekhine Defense: Modern Variation, Vitolins Attack
+1	Alekhine Defense: Four Pawns Attack, Ilyin-Zhenevsky Variation
