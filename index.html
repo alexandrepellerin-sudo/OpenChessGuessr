@@ -5,82 +5,130 @@
   <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
   <title>OpenChessGuessr</title>
   <meta name="description" content="Devine l'ouverture d'échecs à partir de la position.">
-  <meta name="theme-color" content="#161512">
+  <meta name="theme-color" content="#f7f5f0">
   <meta name="apple-mobile-web-app-capable" content="yes">
   <meta name="mobile-web-app-capable" content="yes">
-  <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+  <meta name="apple-mobile-web-app-status-bar-style" content="default">
   <meta name="apple-mobile-web-app-title" content="Ouvertures">
   <link rel="manifest" href="manifest.webmanifest">
   <link rel="icon" href="assets/icons/icon.svg" type="image/svg+xml">
   <link rel="apple-touch-icon" href="assets/icons/apple-touch-icon.png">
   <link rel="preload" href="data/openings.json" as="fetch" crossorigin>
+  <link rel="preload" href="assets/fonts/instrument-serif.woff2" as="font" type="font/woff2" crossorigin>
+  <link rel="preload" href="assets/fonts/inter-tight.woff2" as="font" type="font/woff2" crossorigin>
   <link rel="stylesheet" href="css/style.css">
   <script type="module" src="js/main.js"></script>
 </head>
 <body>
 <main>
-  <!-- Accueil -->
-  <section id="home" class="screen">
-    <header class="hero">
-      <img src="assets/pieces/wN.svg" alt="" class="hero-knight">
-      <h1>OpenChess<span>Guessr</span></h1>
-      <p>Une position, quatre noms : trouve la bonne ouverture.</p>
+  <p id="load-error" class="load-error" hidden>Impossible de charger les ouvertures. Vérifie ta connexion puis recharge la page.</p>
+
+  <!-- Jouer : réglages de la partie -->
+  <section id="view-jouer" class="view">
+    <header class="masthead">
+      <p class="kicker">OpenChessGuessr</p>
+      <h1 class="display">Quelle <em>ouverture</em>&nbsp;?</h1>
+      <p class="lede">Les coups défilent, la position se fige. À toi de la nommer parmi quatre propositions.</p>
     </header>
 
-    <div id="stats" class="stats"></div>
+    <section class="block">
+      <h2 class="label"><span>01</span>Répertoire</h2>
+      <div id="pool-picker" class="segmented" role="radiogroup" aria-label="Nombre d'ouvertures"></div>
+      <p id="pool-hint" class="hint"></p>
+    </section>
 
-    <h2>Répertoire</h2>
-    <div id="pools" class="pools"></div>
-    <button id="start" class="btn primary" disabled>Nouvelle partie</button>
+    <section class="block">
+      <h2 class="label"><span>02</span>Difficulté</h2>
+      <div id="difficulty-picker" class="options" role="radiogroup" aria-label="Difficulté"></div>
+    </section>
+
+    <div class="start">
+      <p id="config-record" class="config-record"></p>
+      <button id="start" class="btn primary" disabled>Commencer la partie</button>
+    </div>
 
     <details class="rules">
-      <summary>Règles du jeu</summary>
+      <summary>Règles</summary>
       <ul>
-        <li>10 positions par partie, de plus en plus dures : 4 faciles (100 pts), 3 moyennes (200 pts), 3 difficiles (300 pts).</li>
-        <li>Une question est plus dure quand l’ouverture est moins jouée et la position plus profonde. Les mauvaises réponses se ressemblent aussi davantage.</li>
-        <li>Série : chaque bonne réponse d’affilée augmente le multiplicateur de x0,25, jusqu’à x2. Une erreur le remet à x1.</li>
-        <li>Après chaque réponse, rejoue les coups et touche les autres propositions pour voir leurs lignes.</li>
+        <li>10 positions par partie. Les coups sont joués depuis la position de départ, puis la question est posée.</li>
+        <li>Points par question : facile 100, moyenne 200, difficile 300.</li>
+        <li>Plus une ouverture est rare et sa ligne longue, plus elle est difficile. En difficile, les propositions sont des variantes très proches.</li>
+        <li>Série : chaque bonne réponse d’affilée ajoute x0,25, jusqu’à x2. Une erreur remet à x1.</li>
+        <li>Après ta réponse, touche les autres propositions pour comparer leurs lignes.</li>
       </ul>
     </details>
 
-    <div id="history-block" hidden>
-      <h2>Dernières parties</h2>
-      <ul id="history" class="history"></ul>
-    </div>
-
     <footer class="credits">
-      Ouvertures et popularité : <a href="https://github.com/lichess-org/chess-openings">Lichess chess-openings</a> et
-      <a href="https://database.lichess.org">base de parties Lichess</a>. Pièces « cburnett » (CC BY-SA 3.0).
+      Ouvertures et popularité : <a href="https://github.com/lichess-org/chess-openings">Lichess chess-openings</a>,
+      <a href="https://database.lichess.org">base Lichess</a>. Pièces « Caliente » par
+      <a href="https://github.com/avi-0/caliente">avi</a> (CC BY-NC-SA 4.0).
     </footer>
   </section>
 
-  <!-- Question -->
-  <section id="play" class="screen" hidden>
-    <header class="topbar">
-      <button id="quit" class="icon-btn" aria-label="Abandonner">✕</button>
-      <div class="progress"><div id="progress-bar"></div></div>
-      <div class="score"><span id="score">0</span> pts</div>
+  <!-- Classement -->
+  <section id="view-classement" class="view" hidden>
+    <header class="masthead small">
+      <p class="kicker">Sur cet appareil</p>
+      <h1 class="display">Classement</h1>
     </header>
-    <div class="meta">
+    <div id="rank-stats" class="stat-grid"></div>
+
+    <h2 class="label"><span>01</span>Meilleures parties</h2>
+    <ol id="rank-top" class="rank-top"></ol>
+
+    <h2 class="label"><span>02</span>Records par réglage</h2>
+    <div class="table-wrap"><table id="rank-table" class="rank-table"></table></div>
+
+    <h2 class="label"><span>03</span>Dernières parties</h2>
+    <ul id="rank-recent" class="rank-recent"></ul>
+  </section>
+
+  <!-- Catalogue -->
+  <section id="view-catalogue" class="view" hidden>
+    <header class="masthead small">
+      <p class="kicker">Catalogue</p>
+      <h1 class="display">Les <em>ouvertures</em></h1>
+      <p id="cat-summary" class="lede mono-lede"></p>
+    </header>
+    <div class="cat-tools">
+      <input id="cat-search" type="search" placeholder="Rechercher : Sicilian, Najdorf, C50…" autocomplete="off" autocorrect="off" spellcheck="false">
+      <div id="cat-filters" class="chips"></div>
+    </div>
+    <div id="cat-list" class="cat-list"></div>
+  </section>
+
+  <!-- Partie -->
+  <section id="view-game" class="view game" hidden>
+    <header class="game-top">
+      <button id="quit" class="icon-btn" aria-label="Abandonner">✕</button>
+      <ol id="pips" class="pips" aria-hidden="true"></ol>
+      <div class="score"><span id="score">0</span><small>pts</small></div>
+    </header>
+    <div class="game-meta">
       <span id="q-num" class="q-num"></span>
-      <span id="tier" class="tier"></span>
+      <span id="tier" class="tag"></span>
       <span id="combo" class="combo" hidden></span>
     </div>
     <div id="board"></div>
-    <p id="turn" class="turn"></p>
+    <div id="moves" class="moves"></div>
+
+    <div id="prompt" class="prompt">
+      <p id="prompt-text"></p>
+      <button id="skip" class="link-btn">Passer ›</button>
+    </div>
+
+    <div id="replay" class="replay" hidden>
+      <button id="r-first" class="icon-btn" aria-label="Début">«</button>
+      <button id="r-prev" class="icon-btn" aria-label="Coup précédent">‹</button>
+      <button id="r-play" class="icon-btn play" aria-label="Rejouer les coups">▶</button>
+      <button id="r-next" class="icon-btn" aria-label="Coup suivant">›</button>
+      <button id="r-last" class="icon-btn" aria-label="Fin">»</button>
+    </div>
 
     <div id="feedback" class="feedback" hidden>
       <div id="fb-head" class="fb-head"></div>
       <div id="fb-name" class="fb-name"></div>
       <div id="fb-meta" class="fb-meta"></div>
-      <div class="replay">
-        <button id="r-first" class="icon-btn" aria-label="Début">⏮</button>
-        <button id="r-prev" class="icon-btn" aria-label="Coup précédent">‹</button>
-        <button id="r-play" class="icon-btn play" aria-label="Rejouer les coups">▶</button>
-        <button id="r-next" class="icon-btn" aria-label="Coup suivant">›</button>
-        <button id="r-last" class="icon-btn" aria-label="Fin">⏭</button>
-      </div>
-      <div id="moves" class="moves"></div>
     </div>
 
     <div id="choices" class="choices"></div>
@@ -91,22 +139,48 @@
   </section>
 
   <!-- Résultat -->
-  <section id="result" class="screen" hidden>
-    <div class="result-card">
-      <p class="result-pool">Partie <span id="r-pool"></span></p>
+  <section id="view-result" class="view" hidden>
+    <header class="masthead small result-head">
+      <p id="r-config" class="kicker"></p>
       <p class="result-score"><span id="r-score"></span><small>pts</small></p>
-      <p id="r-record" class="record" hidden></p>
-      <div class="result-stats">
-        <div><b id="r-correct"></b><span>bonnes réponses</span></div>
-        <div><b id="r-streak"></b><span>meilleure série</span></div>
-      </div>
+      <p id="r-record" class="stamp" hidden></p>
+      <ol id="r-pips" class="pips big" aria-hidden="true"></ol>
+    </header>
+    <div class="stat-grid two">
+      <div><b id="r-correct"></b><span>bonnes réponses</span></div>
+      <div><b id="r-streak"></b><span>meilleure série</span></div>
     </div>
     <ol id="r-list" class="r-list"></ol>
     <div class="result-actions">
       <button id="again" class="btn primary">Rejouer</button>
-      <button id="home-btn" class="btn">Accueil</button>
+      <button id="result-home" class="btn">Changer les réglages</button>
     </div>
   </section>
 </main>
+
+<nav class="tabbar" aria-label="Navigation">
+  <a href="#/jouer" data-tab="jouer"><span class="tab-icon" data-piece="N"></span><span>Jouer</span></a>
+  <a href="#/classement" data-tab="classement"><span class="tab-icon" data-piece="K"></span><span>Classement</span></a>
+  <a href="#/catalogue" data-tab="catalogue"><span class="tab-icon" data-piece="R"></span><span>Catalogue</span></a>
+</nav>
+
+<!-- Fiche d'une ouverture (catalogue) -->
+<div id="sheet" class="sheet" hidden>
+  <div class="sheet-panel" role="dialog" aria-modal="true" aria-labelledby="sheet-name">
+    <button id="sheet-close" class="icon-btn sheet-close" aria-label="Fermer">✕</button>
+    <h2 id="sheet-name" class="sheet-name"></h2>
+    <p id="sheet-meta" class="fb-meta"></p>
+    <div id="sheet-board"></div>
+    <div id="sheet-moves" class="moves"></div>
+    <div class="replay">
+      <button id="s-first" class="icon-btn" aria-label="Début">«</button>
+      <button id="s-prev" class="icon-btn" aria-label="Coup précédent">‹</button>
+      <button id="s-play" class="icon-btn play" aria-label="Lecture">▶</button>
+      <button id="s-next" class="icon-btn" aria-label="Coup suivant">›</button>
+      <button id="s-last" class="icon-btn" aria-label="Fin">»</button>
+    </div>
+    <div id="sheet-stats" class="sheet-stats"></div>
+  </div>
+</div>
 </body>
 </html>

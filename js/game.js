@@ -1,9 +1,11 @@
 // Logique de jeu : répertoires, difficulté, génération des questions et score.
 export const POOLS = [
-  { id: 'top50', label: 'Top 50', size: 50, hint: 'Les classiques' },
-  { id: 'top150', label: 'Top 150', size: 150, hint: 'Joueur de club' },
-  { id: 'top500', label: 'Top 500', size: 500, hint: 'Théoricien' },
-  { id: 'all', label: 'Toutes', size: Infinity, hint: 'Encyclopédie' },
+  { id: 'top25', label: '25', size: 25, hint: 'Les 25 ouvertures les plus jouées : les incontournables.' },
+  { id: 'top50', label: '50', size: 50, hint: 'Les 50 ouvertures les plus jouées : les classiques.' },
+  { id: 'top100', label: '100', size: 100, hint: 'Les 100 ouvertures les plus jouées : pour joueur régulier.' },
+  { id: 'top250', label: '250', size: 250, hint: 'Les 250 ouvertures les plus jouées : niveau club.' },
+  { id: 'top500', label: '500', size: 500, hint: 'Les 500 ouvertures les plus jouées : pour théoricien.' },
+  { id: 'all', label: 'Toutes', size: Infinity, hint: 'Toutes les ouvertures répertoriées : l’encyclopédie.' },
 ];
 
 export const TIERS = {
@@ -12,9 +14,22 @@ export const TIERS = {
   hard: { label: 'Difficile', points: 300 },
 };
 
-// Déroulé d'une partie : la difficulté monte au fil des questions.
-const PLAN = ['easy', 'easy', 'easy', 'easy', 'medium', 'medium', 'medium', 'hard', 'hard', 'hard'];
-export const QUESTIONS_PER_GAME = PLAN.length;
+export const QUESTIONS_PER_GAME = 10;
+const repeat = (tier) => Array(QUESTIONS_PER_GAME).fill(tier);
+
+export const DIFFICULTIES = [
+  { id: 'progressive', label: 'Progressive', short: 'Prog.', hint: '4 faciles, 3 moyennes, 3 difficiles.',
+    plan: ['easy', 'easy', 'easy', 'easy', 'medium', 'medium', 'medium', 'hard', 'hard', 'hard'] },
+  { id: 'easy', label: 'Facile', short: 'Fac.', hint: 'Lignes courtes et courantes, propositions très différentes.', plan: repeat('easy') },
+  { id: 'medium', label: 'Moyenne', short: 'Moy.', hint: 'Une proposition piège de la même famille.', plan: repeat('medium') },
+  { id: 'hard', label: 'Difficile', short: 'Diff.', hint: 'Lignes profondes et rares, variantes très proches.', plan: repeat('hard') },
+];
+
+export const poolLabel = (id) => {
+  const p = POOLS.find((x) => x.id === id);
+  return p ? (p.size === Infinity ? 'Toutes' : `Top ${p.label}`) : id.replace('top', 'Top ');
+};
+export const difficultyLabel = (id) => DIFFICULTIES.find((d) => d.id === id)?.label ?? 'Progressive';
 
 export function prepareOpenings(data) {
   return data.openings.map((o, rank) => {
@@ -108,22 +123,28 @@ function pickDistractors(target, tier, pool, all) {
   return chosen;
 }
 
-export function createGame(all, poolId) {
-  const poolDef = POOLS.find((p) => p.id === poolId) ?? POOLS[0];
+export function createGame(all, poolId, difficultyId) {
+  const poolDef = POOLS.find((p) => p.id === poolId) ?? POOLS[1];
+  const difficulty = DIFFICULTIES.find((d) => d.id === difficultyId) ?? DIFFICULTIES[0];
   const pool = all.slice(0, poolDef.size);
   const buckets = bucketsByTier(pool);
   const used = new Set();
 
-  const questions = PLAN.map((tier) => {
-    let candidates = buckets[tier].filter((o) => !used.has(o.name));
-    if (!candidates.length) candidates = pool.filter((o) => !used.has(o.name));
+  // Si un tiers est épuisé (petit répertoire), on se rabat sur le tiers voisin.
+  const fallback = { easy: ['medium', 'hard'], medium: ['easy', 'hard'], hard: ['medium', 'easy'] };
+  const questions = difficulty.plan.map((tier) => {
+    let candidates = [];
+    for (const t of [tier, ...fallback[tier]]) {
+      candidates = buckets[t].filter((o) => !used.has(o.name));
+      if (candidates.length) break;
+    }
     const target = pick(candidates);
     used.add(target.name);
     const choices = shuffle([target, ...pickDistractors(target, tier, pool, all)]);
     return { tier, target, choices, answer: choices.indexOf(target), picked: null, points: 0 };
   });
 
-  return { poolId: poolDef.id, questions, index: 0, score: 0, streak: 0, bestStreak: 0, correct: 0 };
+  return { poolId: poolDef.id, difficultyId: difficulty.id, questions, index: 0, score: 0, streak: 0, bestStreak: 0, correct: 0 };
 }
 
 export const multiplierFor = (streak) => 1 + 0.25 * (Math.min(Math.max(streak, 1), 5) - 1);

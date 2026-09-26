@@ -1,8 +1,11 @@
 // Hors ligne : on sert le cache tout de suite et on le rafraîchit en arrière-plan.
-const CACHE = 'ocg-v1';
+const CACHE = 'ocg-v2';
 const PIECES = ['w', 'b'].flatMap((c) => 'KQRBNP'.split('').map((p) => `assets/pieces/${c}${p}.svg`));
-const SHELL = ['./', 'index.html', 'css/style.css', 'js/main.js', 'js/board.js', 'js/game.js', 'js/store.js',
-  'data/openings.json', 'manifest.webmanifest', 'assets/icons/icon.svg', ...PIECES];
+const FONTS = ['instrument-serif', 'instrument-serif-italic', 'inter-tight', 'jetbrains-mono'].map((f) => `assets/fonts/${f}.woff2`);
+const SHELL = ['./', 'index.html', 'css/style.css', 'manifest.webmanifest', 'assets/icons/icon.svg', 'data/openings.json',
+  ...['main', 'board', 'game', 'store', 'data', 'player', 'ui'].map((m) => `js/${m}.js`),
+  ...['setup', 'play', 'ranking', 'catalogue'].map((v) => `js/views/${v}.js`),
+  ...PIECES, ...FONTS];
 
 self.addEventListener('install', (e) => {
   e.waitUntil(caches.open(CACHE).then((c) => c.addAll(SHELL)).then(() => self.skipWaiting()));
